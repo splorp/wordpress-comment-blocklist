@@ -263,79 +263,89 @@ _москве
 --youtube
 --zapat
 -+.
--0.co
--0.in
--0.ro
--0.ru
--0.su
--0.za
+-0.co/
+-0.com/
+-0.in/
+-0.ro/
+-0.ru/
+-0.su/
+-0.za/
 -1-pack-
 -1-pack.
 -1-pack/
--1.co
--1.in
--1.ro
--1.ru
--1.su
--1.za
+-1.co/
+-1.com/
+-1.in/
+-1.ro/
+-1.ru/
+-1.su/
+-1.za/
 -1win-
 -1win.
 -1win/
--2.co
--2.in
--2.ro
--2.ru
--2.su
--2.za
--3.co
--3.in
--3.ro
--3.ru
--3.su
--3.za
+-2.co/
+-2.com/
+-2.in/
+-2.ro/
+-2.ru/
+-2.su/
+-2.za/
+-3.co/
+-3.com/
+-3.in/
+-3.ro/
+-3.ru/
+-3.su/
+-3.za/
 -4-sale
 -4-u-
 -4-u.
 -4-u/
--4.co
--4.in
--4.ro
--4.ru
--4.su
--4.za
+-4.co/
+-4.com/
+-4.in/
+-4.ro/
+-4.ru/
+-4.su/
+-4.za/
 -4u-
 -4u.
 -4u/
--5.co
--5.in
--5.ro
--5.ru
--5.su
--5.za
--6.co
--6.in
--6.ro
--6.ru
--6.su
--6.za
--7.co
--7.in
--7.ro
--7.ru
--7.su
--7.za
--8.co
--8.in
--8.ro
--8.ru
--8.su
--8.za
--9.co
--9.in
--9.ro
--9.ru
--9.su
--9.za
+-5.co/
+-5.com/
+-5.in/
+-5.ro/
+-5.ru/
+-5.su/
+-5.za/
+-6.co/
+-6.com/
+-6.in/
+-6.ro/
+-6.ru/
+-6.su/
+-6.za/
+-7.co/
+-7.com/
+-7.in/
+-7.ro/
+-7.ru/
+-7.su/
+-7.za/
+-8.co/
+-8.com/
+-8.in/
+-8.ro/
+-8.ru/
+-8.su/
+-8.za/
+-9.co/
+-9.com/
+-9.in/
+-9.ro/
+-9.ru/
+-9.su/
+-9.za/
 -24.
 -abercrombie-
 -abercrombie.
@@ -343,8 +353,8 @@ _москве
 -abercrombiefitch-
 -abercrombiefitch.
 -abercrombiefitch/
--academy.ru
--access.ru
+-academy.ru/
+-access.ru/
 -acne-
 -acne.
 -acne/
@@ -379,7 +389,7 @@ _москве
 -aitext.
 -aitext/
 -all-new-
--all.ru
+-all.ru/
 -allocating-
 -allocating.
 -allocating/
@@ -447,11 +457,11 @@ _москве
 -auto-coverage-
 -auto-insurance-
 -auto-protection-
--auto.in
--auto.ro
--auto.ru
--auto.su
--auto.za
+-auto.in/
+-auto.ro/
+-auto.ru/
+-auto.su/
+-auto.za/
 -avto-
 -avto.
 -avto/
@@ -521,7 +531,7 @@ _москве
 -bots1.
 -bots2.
 -bots3.
--br.biz
+-br.biz/
 -breathalyzer-
 -broker.
 -broker/
@@ -614,7 +624,7 @@ _москве
 -clit/
 -co-jap
 -co-jp
--co.jp
+-co.jp/
 -cock-
 -cock.
 -cock/
@@ -667,7 +677,7 @@ _москве
 -diamondband-
 -diamondband.
 -diamondband/
--didaktika.ru
+-didaktika.ru/
 -dieta-
 -dieta.
 -dieta/
@@ -719,7 +729,7 @@ _москве
 -ecig.
 -ecig/
 -eguide-
--elisa.ru
+-elisa.ru/
 -enlargement.
 -enlargement/
 -entries/
@@ -745,7 +755,7 @@ _москве
 -essential-element
 -event.
 -event/
--exchange.cc
+-exchange.cc/
 -executive.
 -executive/
 -executives.
@@ -801,20 +811,22 @@ _москве
 -forex-
 -forex.
 -forex/
--forum.co
--forum.in
--forum.pl
--forum.ro
--forum.ru
--forum.su
--forum.za
--forums.co
--forums.in
--forums.pl
--forums.ro
--forums.ru
--forums.su
--forums.za
+-forum.co/
+-forum.com/
+-forum.in/
+-forum.pl/
+-forum.ro/
+-forum.ru/
+-forum.su/
+-forum.za/
+-forums.co/
+-forums.com/
+-forums.in/
+-forums.pl/
+-forums.ro/
+-forums.ru/
+-forums.su/
+-forums.za/
 -fotograf.
 -fotograf/
 -fotografia.
@@ -846,12 +858,12 @@ _москве
 -gambling-
 -gambling.
 -gambling/
--games.in
--games.pl
--games.ro
--games.ru
--games.su
--games.za
+-games.in/
+-games.pl/
+-games.ro/
+-games.ru/
+-games.su/
+-games.za/
 -gaming-
 -gaming.
 -gaming/
@@ -923,14 +935,14 @@ _москве
 -ile-kosztuje-
 -ile-kosztuje.
 -ile-kosztuje/
--imap.to
+-imap.to/
 -in-dex-
 -in-dex.
 -in-dex/
 -income-
 -income.
 -income/
--info.pl
+-info.pl/
 -infotain
 -insurance-coverage-
 -insurance-protection-
@@ -1042,20 +1054,21 @@ _москве
 -m88/
 -magazin-
 -magazini-
--mail1.to
+-mail1.to/
 -malware-
 -malware.
 -malware/
 -marant-
 -marc-jacobs-
 -marcjacobs-
--market.co
--market.in
--market.pl
--market.ro
--market.ru
--market.su
--market.za
+-market.co/
+-market.com/
+-market.in/
+-market.pl/
+-market.ro/
+-market.ru/
+-market.su/
+-market.za/
 -marketing-
 -massage.
 -massage/
@@ -1065,7 +1078,7 @@ _москве
 -mbt/
 -mbts.
 -mbts/
--med.ru
+-med.ru/
 -media-wiki-
 -media-wiki.
 -media-wiki/
@@ -1086,28 +1099,30 @@ _москве
 -mlm/
 -mlsp.
 -mlsp/
--model.co
--model.in
--model.pl
--model.ro
--model.ru
--model.su
--model.za
--models.co
--models.in
--models.pl
--models.ro
--models.ru
--models.su
--models.za
+-model.co/
+-model.com/
+-model.in/
+-model.pl/
+-model.ro/
+-model.ru/
+-model.su/
+-model.za/
+-models.co/
+-models.com/
+-models.in/
+-models.pl/
+-models.ro/
+-models.ru/
+-models.su/
+-models.za/
 -mods.com/users/
 -moncler.
 -money.
 -montblanc.
 -montblanc/
 -mortgage-
--moskva.ru
--moskve.ru
+-moskva.ru/
+-moskve.ru/
 -most-effective-
 -most-effective.
 -most-effective/
@@ -1127,7 +1142,7 @@ _москве
 -newbalance-
 -newports/
 -news-explained-
--nn.ru
+-nn.ru/
 -noreferer-
 -noreferer.
 -noreferer/
@@ -1158,11 +1173,11 @@ _москве
 -online-8-
 -online-9-
 -online-free-
--online.ru
+-online.ru/
 -openlink-
 -openlink.
 -openlink/
--opt.ru
+-opt.ru/
 -order-at-
 -oulu
 -outlet.
@@ -1197,13 +1212,14 @@ _москве
 -picloader.
 -picloader/
 -pictures.
--plus.co
--plus.in
--plus.pl
--plus.ro
--plus.ru
--plus.su
--plus.za
+-plus.co/
+-plus.com/
+-plus.in/
+-plus.pl/
+-plus.ro/
+-plus.ru/
+-plus.su/
+-plus.za/
 -poker-
 -poker.
 -poker/
@@ -1240,13 +1256,14 @@ _москве
 -programy-
 -programy.
 -programy/
--progs.co
--progs.in
--progs.pl
--progs.ro
--progs.ru
--progs.su
--progs.za
+-progs.co/
+-progs.com/
+-progs.in/
+-progs.pl/
+-progs.ro/
+-progs.ru/
+-progs.su/
+-progs.za/
 -promo-
 -promo.
 -promo/
@@ -1286,14 +1303,15 @@ _москве
 -qsymia-
 -qsymia.
 -qsymia/
--questions.in
--r.co
--r.in
--r.pl
--r.ro
--r.ru
--r.su
--r.za
+-questions.in/
+-r.co/
+-r.com/
+-r.in/
+-r.pl/
+-r.ro/
+-r.ru/
+-r.su/
+-r.za/
 -r4i-
 -rakuten-
 -rakuten.
@@ -1327,23 +1345,25 @@ _москве
 -redirects/
 -remote-access
 -remote-desktop
--repair.co
--repair.in
--repair.pl
--repair.ro
--repair.ru
--repair.su
--repair.za
+-repair.co/
+-repair.com/
+-repair.in/
+-repair.pl/
+-repair.ro/
+-repair.ru/
+-repair.su/
+-repair.za/
 -retina247-
 -retina247.
 -retina247/
--review.co
--review.in
--review.pl
--review.ro
--review.ru
--review.su
--review.za
+-review.co/
+-review.com/
+-review.in/
+-review.pl/
+-review.ro/
+-review.ru/
+-review.su/
+-review.za/
 -review/
 -rims-
 -roulette-
@@ -1472,13 +1492,13 @@ _москве
 -supreme.
 -supreme/
 -symptoms-
--systems.in
--systems.ph
--systems.pl
--systems.ro
--systems.ru
--systems.su
--systems.za
+-systems.in/
+-systems.ph/
+-systems.pl/
+-systems.ro/
+-systems.ru/
+-systems.su/
+-systems.za/
 -tafil-
 -tafil.
 -tafil/
@@ -1501,7 +1521,7 @@ _москве
 -tax-relief
 -tax-settlement
 -teen-in-
--test.de
+-test.de/
 -the-best-
 -the-best.
 -the-best/
@@ -1522,7 +1542,8 @@ _москве
 -titties.
 -titties/
 -top-info
--tours.co
+-tours.co/
+-tours.com/
 -track.app
 -traffic.
 -trainings.
@@ -1530,7 +1551,7 @@ _москве
 -transpiration-
 -travel-size-
 -treatment-
--turnik.ru
+-turnik.ru/
 -uae/serv
 -uggs-
 -uggs.
@@ -1549,7 +1570,7 @@ _москве
 -vecaro.
 -vecaro/
 -vendita-
--volga.ru
+-volga.ru/
 -vuitton-
 -vulpyx-
 -vulpyx.
@@ -1576,7 +1597,8 @@ _москве
 -wirisi-
 -wirisi.
 -wirisi/
--wizard.co
+-wizard.co/
+-wizard.com/
 -women-jers
 -womens-jers
 -womens.
@@ -1784,9 +1806,9 @@ _москве
 .1win.
 .1win/
 .2com
-.2u4.us
+.2u4.us/
 .4shared.
-.7x.cz
+.7x.cz/
 .acidblog.
 .acidblogs.
 .acompanhante-
@@ -1800,7 +1822,7 @@ _москве
 .actoblog.
 .actoblogs.
 .adboard
-.adminka.cc
+.adminka.cc/
 .adsboard
 .adsense-
 .adsense.
@@ -1888,8 +1910,9 @@ _москве
 .azmya.
 .azzablog.
 .baidu
-.bbls.pl
-.bcz.co
+.bbls.pl/
+.bcz.co/
+.bcz.com/
 .bdsm-
 .bdsm.
 .bdsm/
@@ -2106,7 +2129,7 @@ _москве
 .cool-t-shirts.
 .cool-t-shirts/
 .coupon
-.credopa.in
+.credopa.in/
 .ctr%20
 .cyou/blog/
 .d.e.r
@@ -2230,19 +2253,19 @@ _москве
 .fucks.
 .fucks/
 .full-design.
-.gallery.ru
-.games.in
-.games.pl
-.games.ro
-.games.ru
-.games.su
-.games.za
-.gaming.in
-.gaming.pl
-.gaming.ro
-.gaming.ru
-.gaming.su
-.gaming.za
+.gallery.ru/
+.games.in/
+.games.pl/
+.games.ro/
+.games.ru/
+.games.su/
+.games.za/
+.gaming.in/
+.gaming.pl/
+.gaming.ro/
+.gaming.ru/
+.gaming.su/
+.gaming.za/
 .gif/
 .glifeblog.
 .glifeblogs.
@@ -2261,7 +2284,7 @@ _москве
 .hdfilm-
 .hdfilm.
 .hdfilm/
-.header.us
+.header.us/
 .health-benefits-
 .health-benefits.
 .health-benefits/
@@ -2418,7 +2441,7 @@ _москве
 .marvsz.
 .maschinenbau-
 .massage-
-.mee.nu
+.mee.nu/
 .meme-
 .meme.
 .meme/
@@ -2439,7 +2462,7 @@ _москве
 .my-site-
 .my-site.
 .my-site/
-.myblog.de
+.myblog.de/
 .mybuzzblog.
 .mybuzzblogs.
 .net,
@@ -2462,8 +2485,8 @@ _москве
 .ocrv.
 .on-demand
 .onesmablog.
-.online.pl
-.online.ws
+.online.pl/
+.online.ws/
 .online/news/
 .openlink-
 .openlink.
@@ -2471,8 +2494,9 @@ _москве
 .org,
 .org/,
 .ourcodeblog.
-.outlet.biz
-.outlet.co
+.outlet.biz/
+.outlet.co/
+.outlet.com/
 .outlink-
 .outlink.
 .outlink/
@@ -2650,7 +2674,8 @@ _москве
 .retina247.
 .retina247/
 .rimmablog.
-.rivulet.co
+.rivulet.co/
+.rivulet.com/
 .ro,
 .ro/,
 .ro/?
@@ -2748,7 +2773,8 @@ _москве
 .rusex.
 .rusex/
 .s.a.k
-.sallow.co
+.sallow.co/
+.sallow.com/
 .sblinks.
 .sbs/blog
 .search-engine
@@ -2776,7 +2802,7 @@ _москве
 .signbook.
 .signbook/
 .simpsite.
-.sirenos.in
+.sirenos.in/
 .skque-
 .skque.
 .skque/
@@ -2896,7 +2922,7 @@ _москве
 .top/gal
 .top/thumb
 .tracker.
-.travel.pl
+.travel.pl/
 .tusblogos.
 .tv show
 .twiclub.
@@ -2923,13 +2949,14 @@ _москве
 .web1.
 .web2.
 .web3.
-.webgarden.at
-.webgarden.cz
+.webgarden.at/
+.webgarden.cz/
 .weblogco.
-.webs.co
+.webs.co/
+.webs.com/
 .website/?
 .wego.shop
-.wgz.cz
+.wgz.cz/
 .whipme-
 .whipme.
 .whipme/
@@ -2946,8 +2973,8 @@ _москве
 .worldblogged.
 .wssblog.
 .wssblogs.
-.xblog.in
-.xsl.pt
+.xblog.in/
+.xsl.pt/
 .xyz/blog/
 .xyz/new/
 .xzblogs.
@@ -3063,7 +3090,7 @@ _москве
 @mai1
 @mail-
 @pro.wire
-@ro.ru
+@ro.ru/
 @sex.
 @toke.
 @www.
@@ -3356,6 +3383,7 @@ _москве
 /allocating.
 /allocating/
 /alturl.co/
+/alturl.com/
 /an0n.me/
 /android-market-
 /android-market.
@@ -3516,6 +3544,7 @@ _москве
 /bitcoin.
 /bitcoin/
 /bitly.co/
+/bitly.com/
 /bitly.ws/
 /biturl.top/
 /biz-
@@ -3838,9 +3867,11 @@ _москве
 /cool-t-shirts.
 /cool-t-shirts/
 /corneey.co/
+/corneey.com/
 /corpoearte.
 /cort.as/
 /corta.co/
+/corta.com/
 /coupon-
 /coupon.
 /coupon/
@@ -4145,6 +4176,7 @@ _москве
 /ge.tt/
 /gekiyasu
 /gestyy.co/
+/gestyy.com/
 /get-free
 /get-professional-
 /get/
@@ -4361,8 +4393,8 @@ _москве
 /html/
 /http
 /huit.re/
-/hyperurl.co
 /hyperurl.co/
+/hyperurl.com/
 /hypr.ink/
 /hyundai.
 /iapple-
@@ -5232,6 +5264,7 @@ _москве
 /redirects/
 /redirects=
 /redirme.co/
+/redirme.com/
 /ref?
 /ref=sr_
 /referer?
@@ -5262,8 +5295,9 @@ _москве
 /retina247-
 /retina247.
 /retina247/
-/ri.ms
+/ri.ms/
 /rih.co/
+/rih.com/
 /rk?
 /rk.ashx?
 /rk.asp?
@@ -5348,12 +5382,14 @@ _москве
 /shorten.is/
 /shorturl.at/
 /shorturl.co/
+/shorturl.com/
 /show-score-
 /show-score.
 /show-score/
 /show/
 /shrinke.me/
 /shrtfly.co/
+/shrtfly.com/
 /sigareta-
 /sigareta.
 /sigarety-
@@ -5382,6 +5418,7 @@ _москве
 /snapback.
 /snippet.host/
 /snipurl.co/
+/snipurl.com/
 /snowboot-
 /snowboot.
 /snowboots-
@@ -5443,6 +5480,7 @@ _москве
 /syaneru
 /system/
 /t.co/
+/t.com/
 /t.ly/
 /t.me/
 /tabid/
@@ -5658,6 +5696,7 @@ _москве
 /url/
 /url/?
 /urlms.co/
+/urlms.com/
 /urlr.be/
 /urls/
 /usa.
@@ -5699,6 +5738,7 @@ _москве
 /visit/?
 /visite.
 /vk.co/
+/vk.com/
 /vk.io/
 /voltaren
 /vuitton-
@@ -6164,19 +6204,20 @@ $sixty
 0.@
 0.5 mg
 0.5mg
-000.biz
+000.biz/
 0.casino
 0.cazino
-000.co
-000.in
+000.co/
+000.com/
+000.in/
 0.kasino
-000.nu
-000.pl
-000.ro
-000.ru
+000.nu/
+000.pl/
+000.ro/
+000.ru/
 000.site
-000.su
-000.za
+000.su/
+000.za/
 0@seo
 ００％
 0% off!
@@ -6185,7 +6226,7 @@ $sixty
 ᧐d
 0day
 0generic
-0gram.ru
+0gram.ru/
 0http
 ᧐m
 00mail
@@ -6245,7 +6286,7 @@ $sixty
 1.5mg
 1.casino
 1.cazino
-1.in
+1.in/
 1.kasino
 1.zero
 1@1
@@ -6257,7 +6298,7 @@ $sixty
 1arti
 1big
 1bodo
-1c.in
+1c.in/
 1casi
 1ciga
 1comm
@@ -6335,7 +6376,7 @@ $sixty
 2.5mg
 2.casino
 2.cazino
-2.in
+2.in/
 2.kasino
 2.zero
 2@1
@@ -6347,9 +6388,9 @@ $sixty
 2ackn
 2arge
 2arti
-2bj.ru
+2bj.ru/
 2buy
-2c.in
+2c.in/
 2casi
 2cazino
 2ciga
@@ -6412,7 +6453,7 @@ $sixty
 3.@
 3.casino
 3.cazino
-3.in
+3.in/
 3.kasino
 3.zero
 3@1
@@ -6550,14 +6591,15 @@ $sixty
 4u-cialis
 4u-harvoni
 4u.club
-4u.co
-4u.in
+4u.co/
+4u.com/
+4u.in/
 4u.online
-4u.pl
-4u.ro
-4u.ru
-4u.su
-4u.za
+4u.pl/
+4u.ro/
+4u.ru/
+4u.su/
+4u.za/
 4ucialis
 4uharvoni
 4you
@@ -6742,19 +6784,19 @@ $sixty
 24-home
 24-online
 24.online
-24.ru
+24.ru/
 24.store
-24.su
+24.su/
 24.top
 24h.blog
 24h/24
 24home
 24hourwrist
 24online
-24pro.ru
+24pro.ru/
 24speed
-24top.ru
-24x7.to
+24top.ru/
+24x7.to/
 ３０％
 ３０＄
 30mg buy
@@ -6820,7 +6862,7 @@ $sixty
 77 offic
 77-login
 77-offic
-77.ru
+77.ru/
 77login
 77offic
 77ru.
@@ -6861,7 +6903,7 @@ $sixty
 99-free
 99-online
 99.club
-99.ru
+99.ru/
 99.xyz
 99club
 99domino
@@ -6885,16 +6927,17 @@ $sixty
 100% real
 100%-plagiaris
 100mg.
-111.biz
-111.co
-111.in
-111.nu
-111.pl
-111.ro
-111.ru
+111.biz/
+111.co/
+111.com/
+111.in/
+111.nu/
+111.pl/
+111.ro/
+111.ru/
 111.site
-111.su
-111.za
+111.su/
+111.za/
 111@
 123 domain
 123 e-mail
@@ -6907,51 +6950,54 @@ $sixty
 123-kinja
 123-movie
 123-rateio
-123.biz
-123.co
+123.biz/
+123.co/
+123.com/
 123.e-mail
 123.email
 123.free
-123.in
+123.in/
 123.kinja
-123.nu
-123.pl
-123.ro
-123.ru
+123.nu/
+123.pl/
+123.ro/
+123.ru/
 123.site
-123.su
+123.su/
 123.top
-123.za
+123.za/
 123@
 123movie
 123rateio
-222.biz
-222.co
-222.in
-222.nu
-222.pl
-222.ro
-222.ru
+222.biz/
+222.co/
+222.com/
+222.in/
+222.nu/
+222.pl/
+222.ro/
+222.ru/
 222.site
-222.su
-222.za
+222.su/
+222.za/
 247 biz
 247 quick
 247-biz
 247-quick
 247-site
 247-sport
-247.biz
-247.co
-247.in
-247.nu
-247.pl
-247.ro
-247.ru
+247.biz/
+247.co/
+247.com/
+247.in/
+247.nu/
+247.pl/
+247.ro/
+247.ru/
 247.site
-247.su
-247.to
-247.za
+247.su/
+247.to/
+247.za/
 247biz
 247quick
 247site
@@ -6963,45 +7009,49 @@ $sixty
 303.guru
 303guru
 303slot
-321.biz
-321.co
-321.in
-321.nu
-321.pl
-321.ro
-321.ru
+321.biz/
+321.co/
+321.com/
+321.in/
+321.nu/
+321.pl/
+321.ro/
+321.ru/
 321.site
-321.su
-321.za
-333.biz
-333.co
-333.in
-333.nu
-333.pl
-333.ro
-333.ru
+321.su/
+321.za/
+333.biz/
+333.co/
+333.com/
+333.in/
+333.nu/
+333.pl/
+333.ro/
+333.ru/
 333.site
-333.su
-333.za
-356.biz
-356.co
-356.nu
-356.pl
-356.ro
-356.ru
+333.su/
+333.za/
+356.biz/
+356.co/
+356.com/
+356.nu/
+356.pl/
+356.ro/
+356.ru/
 356.site
-356.su
-356.za
-365.biz
-365.co
-365.in
-365.nu
-365.pl
-365.ro
-365.ru
+356.su/
+356.za/
+365.biz/
+365.co/
+365.com/
+365.in/
+365.nu/
+365.pl/
+365.ro/
+365.ru/
 365.site
-365.su
-365.za
+365.su/
+365.za/
 365bet
 368bet
 404.asp
@@ -7014,75 +7064,81 @@ $sixty
 420 kush
 420-kush
 420kush
-456.biz
-456.co
-456.in
-456.nu
-456.pl
-456.ro
-456.ru
+456.biz/
+456.co/
+456.com/
+456.in/
+456.nu/
+456.pl/
+456.ro/
+456.ru/
 456.site
-456.su
-456.za
-654.biz
-654.co
-654.in
-654.nu
-654.pl
-654.ro
-654.ru
+456.su/
+456.za/
+654.biz/
+654.co/
+654.com/
+654.in/
+654.nu/
+654.pl/
+654.ro/
+654.ru/
 654.site
-654.su
-654.za
-789.biz
-789.co
-789.in
-789.nu
-789.pl
-789.ro
-789.ru
+654.su/
+654.za/
+789.biz/
+789.co/
+789.com/
+789.in/
+789.nu/
+789.pl/
+789.ro/
+789.ru/
 789.site
-789.su
-789.za
+789.su/
+789.za/
 888 starz
 888-starz
 888starz
-911.biz
-911.co
-911.in
-911.nu
-911.pl
-911.ro
-911.ru
+911.biz/
+911.co/
+911.com/
+911.in/
+911.nu/
+911.pl/
+911.ro/
+911.ru/
 911.site
-911.su
-911.za
-987.biz
-987.co
-987.in
-987.nu
-987.pl
-987.ro
-987.ru
+911.su/
+911.za/
+987.biz/
+987.co/
+987.com/
+987.in/
+987.nu/
+987.pl/
+987.ro/
+987.ru/
 987.site
-987.su
-987.za
+987.su/
+987.za/
 999 999
 999 coin
 999 free
 999-999
 999-coin
 999-free
-999.biz
-999.co
-999.in
-999.nu
-999.pl
-999.ro
-999.ru
+999.biz/
+999.co/
+999.com/
+999.in/
+999.nu/
+999.pl/
+999.ro/
+999.ru/
 999.site
-999.su
-999.za
+999.su/
+999.za/
 999k diamond
 999k free
 999k-diamond
@@ -7192,7 +7248,8 @@ a01.asp
 a1.asp
 a01.cfm
 a1.cfm
-a1.co
+a1.co/
+a1.com/
 a01.ctr
 a1.ctr
 a01.htm
@@ -8598,7 +8655,8 @@ amazingness is
 amazingness life
 amazingness will
 amazingsex
-amazn.co
+amazn.co/
+amazn.com/
 amazon cbd
 amazon lider
 amazon-cbd
@@ -8689,7 +8747,8 @@ amulet coin
 amulet-coin
 amuletcoin
 amusement account
-amzon.co
+amzon.co/
+amzon.com/
 an affectionate welcome
 an authentic gift
 an avid web
@@ -9265,11 +9324,12 @@ aricept
 aripiprex
 arise balls
 arise-balls
-arkti.ru
+arkti.ru/
 arleitcs
 arm the government
 arm-the-government
-armagard.co
+armagard.co/
+armagard.com/
 armani cloth
 armani cost
 armani-cloth
@@ -9911,7 +9971,7 @@ automobiles motor
 autoparty
 autopilot income
 autopilot-income
-autopl.ru
+autopl.ru/
 autopost unlimit
 autopost-unlimit
 autopostunlimit
@@ -9966,7 +10026,7 @@ avental-indispensavel
 averse invest
 averse-invest
 avid web server
-avto1.ru
+avto1.ru/
 avtomaticheskie karniz
 avtomaticheskie shtor
 avtomaticheskie-karniz
@@ -10211,7 +10271,7 @@ baccaratsite
 baccaratview
 bacfk
 bachelor college degree
-bachelor.ru
+bachelor.ru/
 back data over
 back forex
 back to your article
@@ -10374,7 +10434,7 @@ balenciagasingapore
 ballgowns dress
 ballgowns-dress
 ballgownsdress
-ballov.ru
+ballov.ru/
 bally store
 bally-store
 ballystore
@@ -10456,7 +10516,7 @@ bank refer
 bank-credit
 bank-offer
 bank-refer
-bank.ru
+bank.ru/
 bank24
 bankbybank
 bankcredit
@@ -10847,7 +10907,7 @@ bedava zenmate
 bedava-hesap
 bedava-yatirim
 bedava-zenmate
-bediva.ru
+bediva.ru/
 bedroom remodel near
 bedroom remodeling near
 bedroom-remodel-near
@@ -11041,7 +11101,7 @@ bermain-di-situs
 bermain-slot
 bermutu ting
 bermutu-ting
-berracom.ph
+berracom.ph/
 beserta tekno
 beserta-tekno
 bespoke strat
@@ -11370,11 +11430,11 @@ betkasino
 betkhong
 betlink
 betlist
-beton.ru
+beton.ru/
 betonnaya parkovka
 betonnaya-parkovka
-betor.biz
-betor.ru
+betor.biz/
+betor.ru/
 betrueger dreck
 betrueger-dreck
 betruegerdreck
@@ -11732,13 +11792,14 @@ biz-cash
 biz-market
 biz-news
 biz-wealth
-biz.co
-biz.in
-biz.pl
-biz.ro
-biz.ru
-biz.su
-biz.za
+biz.co/
+biz.com/
+biz.in/
+biz.pl/
+biz.ro/
+biz.ru/
+biz.su/
+biz.za/
 biz0
 bizadvert
 bizcapital
@@ -12170,7 +12231,7 @@ blogpeople
 blogplatform
 blogprodesign
 blogprojet
-blogrtui.ru
+blogrtui.ru/
 blogs already
 blogs always
 blogs are so sex
@@ -12857,7 +12918,7 @@ box-iphone
 boxabloom
 boxing hack
 boxing-hack
-boxshopping.ru
+boxshopping.ru/
 boy fetish
 boy pantie
 boy panty
@@ -13930,13 +13991,14 @@ by-dr-dre
 by-experienced-people
 by-my-location
 bymean
-byo.co
+byo.co/
+byo.com/
 byt.es
 byte coin
 byte-coin
 bytecoin
 bytikauto
-bztpa.ru
+bztpa.ru/
 bƅ
 bⲟ
 bе
@@ -14924,7 +14986,8 @@ casino-us
 casino-view
 casino-vip
 casino-x
-casino.co
+casino.co/
+casino.com/
 casino.net
 casino1
 casino4d
@@ -14973,7 +15036,8 @@ câsuâl
 casual sex
 casual-sex
 casualsex
-casub.co
+casub.co/
+casub.com/
 cat coin
 cat-coin
 catalog-tabak
@@ -15454,7 +15518,7 @@ chat-xx
 chat-ԁa-cam
 chat-рer-adult
 chat.chat
-chat.ru
+chat.ru/
 chatburt
 chatchat
 chaterba
@@ -15589,7 +15653,8 @@ chaussuresupra
 chbeap
 chce rozwodu
 chce-rozwodu
-chcoin.co
+chcoin.co/
+chcoin.com/
 cheap |
 cheap advair
 cheap afl
@@ -15791,7 +15856,7 @@ cheap-nhl
 cheap-nike
 cheap-north
 cheap-oakley
-cheap-oil.ru
+cheap-oil.ru/
 cheap-online
 cheap-pandora
 cheap-paper
@@ -15891,7 +15956,8 @@ cheapest-pokemon
 cheapest-pric
 cheapest-ray
 cheapest-smm
-cheapest.co
+cheapest.co/
+cheapest.com/
 cheapestgpt
 cheapesthockey
 cheapestlow
@@ -15978,7 +16044,8 @@ cheat-mobil
 cheat-money
 cheat-sako
 cheat-web
-cheat.co
+cheat.co/
+cheat.com/
 cheat.web
 cheated throughout flow
 cheating husband
@@ -16005,7 +16072,8 @@ cheats-free
 cheats-money
 cheats-spin
 cheats-web
-cheats.co
+cheats.co/
+cheats.com/
 cheats.web
 cheatsfor
 cheatsfree
@@ -16415,13 +16483,15 @@ cigarette buy
 cigarette online
 cigarette-buy
 cigarette-online
-cigarette.co
+cigarette.co/
+cigarette.com/
 cigarettebuy
 cigarettes buy
 cigarettes online
 cigarettes-buy
 cigarettes-online
-cigarettes.co
+cigarettes.co/
+cigarettes.com/
 cigarettesbuy
 cigaronline
 cigarrette
@@ -17144,7 +17214,7 @@ com-install
 com.asp
 com.cheap
 com.com
-com.ru
+com.ru/
 com/?url
 com//
 com/autocom
@@ -17348,7 +17418,7 @@ commodity-tip
 commokn
 commonly duped
 commonly often known
-commun.ru
+commun.ru/
 communal authent
 communal-authent
 communicable and rabid
@@ -17982,7 +18052,8 @@ coupon-pric
 coupon-priv
 coupon-sense
 coupon.bl
-coupon.co
+coupon.co/
+coupon.com/
 couponbargain
 couponcode
 couponpriv
@@ -18177,7 +18248,7 @@ credit-repair
 credit-report
 credit-score
 credit-worth
-credit.cc
+credit.cc/
 credit.eu
 creditcard.org
 creditcard.us
@@ -19271,7 +19342,7 @@ datadores automátic
 datadores-automatic
 datagjenvinning for mac
 datagjenvinning-for-mac
-dataput.ru
+dataput.ru/
 datarecoveryhospital
 datatogel
 dataz
@@ -19585,7 +19656,8 @@ deliver-noticeable-result
 deliver-overtly
 deliver-relia
 deliver-result
-deliver.ifeng.co
+deliver.ifeng.co/
+deliver.ifeng.com/
 delivering innovative
 delivering-innovative
 deliverresult
@@ -19678,7 +19750,7 @@ dental-super
 dental-surgeon-near
 dental-that
 dental-veneer
-dentalgu.ru
+dentalgu.ru/
 dentalguru
 dentalimplant
 dentalonline
@@ -19720,7 +19792,7 @@ deposit-bonus
 deposit-casino
 deposit-pulsa
 deposit-withdraw
-deposit.ru
+deposit.ru/
 depositbank
 depositcasino
 depression 1
@@ -19999,7 +20071,7 @@ dich vu seo
 dịch vụ seo
 dich-vu-seo
 dichvuseo
-dick.ru
+dick.ru/
 diclofenac
 did yoou
 didn?t
@@ -20069,7 +20141,8 @@ diet-suppl
 diet-tv
 diet.asp
 diet.cfm
-diet.co
+diet.co/
+diet.com/
 diet.ctr
 diet.htm
 diet.jsp
@@ -20247,7 +20320,8 @@ discount-reebok
 discount-ugg
 discount-vouch
 discount-wheel
-discount.co
+discount.co/
+discount.com/
 discount.org
 discountafl
 discountbag
@@ -20481,8 +20555,9 @@ dobra kamera
 dobra kamere
 dobra-kamera
 dobra-kamere
-dobrucki.co
-dobrucki.pl
+dobrucki.co/
+dobrucki.com/
+dobrucki.pl/
 doc creation
 doc-creation
 doc/soap
@@ -20544,7 +20619,7 @@ dog-care-tip
 dog-proprietor
 dog-treat-dog
 dog-treats-dog
-dog.ru
+dog.ru/
 dog's dog day
 dog’s dog day
 doge coin
@@ -20653,7 +20728,7 @@ donnaxs
 donne donn
 donne-donn
 donnedonn
-donrem.ru
+donrem.ru/
 dont cease
 dont click me
 dont fit
@@ -20678,7 +20753,7 @@ doroga-k-uchas
 dos-seios
 dostavka rakov
 dostavka-rakov
-dostavka.ru
+dostavka.ru/
 dostenex
 dostinex
 dosug intim
@@ -21064,7 +21139,7 @@ dubaiserv
 dubaitowel
 dubaiwoman
 dubaiwomen
-dubllikat.ru
+dubllikat.ru/
 dubturbo
 duc nam
 dục nam
@@ -21086,8 +21161,8 @@ duct-cleaner-near
 duct-cleaning-fort
 duct-cleaning-near
 duct-cleaning-serv
-dude.de
-dudes.de
+dude.de/
+dudes.de/
 dugg some
 dui attorn
 dui defense
@@ -21968,7 +22043,7 @@ enza pagare
 enza-pagare
 eo-market
 eomarket
-eonline.pl
+eonline.pl/
 epamphlett
 ephedra
 ephedrine
@@ -22020,7 +22095,8 @@ erétil glaucoma
 eretil-glaucoma
 erettile
 erinvest
-erjersey.co
+erjersey.co/
+erjersey.com/
 erjersey.net
 erogenous pic
 erogenous-pic
@@ -22200,7 +22276,8 @@ escortz
 escot izmit
 escot-izmit
 escotizmit
-eshop.co
+eshop.co/
+eshop.com/
 esk istanbul
 eskort bayan
 eskort blog
@@ -22315,7 +22392,7 @@ essay-topic
 essay-typer
 essay-write
 essay-writing-example
-essay.ru
+essay.ru/
 essay2u
 essay4u
 essayempire
@@ -22524,7 +22601,8 @@ exame-direito
 examine the online
 examine-this-report
 examjple
-example1.co
+example1.co/
+example1.com/
 examples tips
 examples-tips
 exboyfriend
@@ -22631,12 +22709,12 @@ exclusive rendez
 exclusive-adult-site
 exclusive-casino
 exclusive-rendez
-exclusive.in
-exclusive.pl
-exclusive.ro
-exclusive.ru
-exclusive.su
-exclusive.za
+exclusive.in/
+exclusive.pl/
+exclusive.ro/
+exclusive.ru/
+exclusive.su/
+exclusive.za/
 executing wedding
 executing-wedding
 executive coach
@@ -22659,7 +22737,8 @@ exipurediscount
 exipuresuppl
 exists lots
 exit.asp
-exmo.co
+exmo.co/
+exmo.com/
 exotic massage
 exotic-massage
 exoticmassage
@@ -23390,7 +23469,7 @@ fast-money
 fast-payout
 fast-prox
 fast-quick
-fast.biz
+fast.biz/
 fast|quick
 fastbiz
 fastbookmark
@@ -23911,16 +23990,16 @@ filmsporn
 filmy porn
 filmy-porn
 filmyporn
-filpan.in
-filpan.pl
-filpan.ro
-filpan.ru
-filpan.za
-filvce.in
-filvce.pl
-filvce.ro
-filvce.ru
-filvce.za
+filpan.in/
+filpan.pl/
+filpan.ro/
+filpan.ru/
+filpan.za/
+filvce.in/
+filvce.pl/
+filvce.ro/
+filvce.ru/
+filvce.za/
 final=http
 finally an easy
 finally someone talk
@@ -24091,7 +24170,7 @@ finiteinstant
 finka nkvd
 finka_nkvd
 finka-nkvd
-finline.in
+finline.in/
 finnd out
 fioricet
 firearm online
@@ -24574,14 +24653,16 @@ forgetful particular
 forgucci
 forhandlere
 forinteract
-forjp.co
+forjp.co/
+forjp.com/
 fork?http
 forklift parts near
 forklift-parts-near
 forlanga penis
 förlänga penis
 forlanga-penis
-forless.co
+forless.co/
+forless.com/
 form_send=success
 forma pra
 forma-pra
@@ -24608,7 +24689,7 @@ forsale-go
 forsale-jap
 forsale-jp
 forsale-uk
-forsale.biz
+forsale.biz/
 forsale.market
 forsale.shop
 forsaledirect
@@ -24676,7 +24757,7 @@ forum-getrieb
 forum-izmit
 forum-tablete
 forum.real
-forum.ru
+forum.ru/
 forum.thank
 forum/func
 forumcoach
@@ -24686,13 +24767,14 @@ forums.thank
 forward moneyline
 forwarding-parcel-forward
 forwholesale
-foryou.co
+foryou.co/
+foryou.com/
 forzest
 foto upload
 foto-upload
 fotografowanie
 fotos-de-tatuagen
-fotos.ru
+fotos.ru/
 fotze gretz
 fotze-gretz
 foud on web
@@ -25003,7 +25085,8 @@ freedownload
 freeecard
 freeescort
 freeeskort
-freefor.co
+freefor.co/
+freefor.com/
 freefortnite
 freeforum
 freegay
@@ -25374,8 +25457,8 @@ furnituresale
 furosemide
 further former
 further-former
-furworld.ru
-furworld.su
+furworld.ru/
+furworld.su/
 futbol barata
 fútbol barata
 futbol barcelona
@@ -25424,7 +25507,8 @@ g.oa.dk
 g.oadk
 g00gle
 g0ogle
-gaaab.co
+gaaab.co/
+gaaab.com/
 gabapentin
 gabbana store
 gabbana-cheap
@@ -25612,7 +25696,7 @@ games,puzzl
 games,shoot
 games,sport
 games,strat
-games.ru
+games.ru/
 games4king
 gamescasino
 gamesgame
@@ -26138,7 +26222,8 @@ giftssingapore
 gig for life
 giga porn
 giga-porn
-gigantix.co
+gigantix.co/
+gigantix.com/
 gigaporn
 gikves
 gilet moncler
@@ -26502,7 +26587,8 @@ going website
 going-please
 goingplease
 gointeractive
-gojp.co
+gojp.co/
+gojp.com/
 golbis.com/user/embody pert
 gold apk
 gold are stunning
@@ -26539,12 +26625,12 @@ gold-seiko
 gold-tantric
 gold-unobtain
 gold-vip
-gold.in
-gold.pl
-gold.ro
-gold.ru
-gold.su
-gold.za
+gold.in/
+gold.pl/
+gold.ro/
+gold.ru/
+gold.su/
+gold.za/
 gold99
 goldbarren
 goldcoin
@@ -26583,7 +26669,8 @@ golfplaza
 golfpromo
 golfs
 golfstream
-gomaile.co
+gomaile.co/
+gomaile.com/
 gomi-bet
 gomibet
 gonna review
@@ -27438,7 +27525,7 @@ gruzowe
 gruzu
 gry flesh
 gry online
-gsite.ws
+gsite.ws/
 gsm сигнал
 gsm-сигнал
 gstar jean
@@ -27576,7 +27663,7 @@ guia-completos
 guia-hacker
 guide understand
 guide-understand
-guide.ru
+guide.ru/
 guidebook you
 guidebook-you
 guidelines denotes
@@ -28686,7 +28773,7 @@ high-need-business
 high-need-venture
 high-payoff
 high-winning
-high.cc
+high.cc/
 highblood
 highcut pantie
 highcut panty
@@ -29190,13 +29277,13 @@ hospital-reclin
 host seller
 host-file
 host-seller
-host.in
+host.in/
 host.ir/user/
-host.pl
-host.ro
-host.ru
-host.su
-host.za
+host.pl/
+host.ro/
+host.ru/
+host.su/
+host.za/
 hosted blog
 hosted-blog
 hosting community
@@ -29213,8 +29300,8 @@ hostingdeutsch
 hostingreseller
 hosts-file
 hostseller
-hoststo.ru
-hoststo.su
+hoststo.ru/
+hoststo.su/
 hot boy are
 hot boy for
 hot boy is
@@ -29924,7 +30011,7 @@ impulsionamento digital
 impulsionamento-digital
 imqge
 imtmdiae
-imzhpro.ru
+imzhpro.ru/
 in a a lot
 in a ll
 in blog comment
@@ -29989,7 +30076,7 @@ inbox cash
 inbox dollar
 inbox-cash
 inbox-dollar
-inbox.ru
+inbox.ru/
 inbox0
 inbox1
 inbox2
@@ -30124,7 +30211,8 @@ indianescort
 indianeskort
 indiansex
 indiblog
-indicators.co
+indicators.co/
+indicators.com/
 indiegogo.com/individuals/
 indited subject
 individual friendly
@@ -30290,7 +30378,7 @@ info9.site
 info9site
 infonetcom
 infor.kz
-infor.ru
+infor.ru/
 informa karpet
 informa-karpet
 informacin
@@ -30886,11 +30974,11 @@ invest-in-btc
 invest-in-crypto
 invest-money
 invest-off
-invest.pl
-invest.ro
-invest.ru
-invest.su
-invest.za
+invest.pl/
+invest.ro/
+invest.ru/
+invest.su/
+invest.za/
 invest/stock
 invest+
 investasi di propert
@@ -30936,18 +31024,18 @@ investmoney
 investoff
 investor nor bank
 investor-rebel
-investor.pl
-investor.ro
-investor.ru
-investor.su
-investor.za
+investor.pl/
+investor.ro/
+investor.ru/
+investor.su/
+investor.za/
 investors nor bank
 investors-rebel
-investors.pl
-investors.ro
-investors.ru
-investors.su
-investors.za
+investors.pl/
+investors.ro/
+investors.ru/
+investors.su/
+investors.za/
 invoice manker
 invoice-manker
 inzest
@@ -31512,7 +31600,8 @@ jcshoe
 je suis impression
 je webpagina
 je-webpagina
-jeacoma.co
+jeacoma.co/
+jeacoma.com/
 jean good
 jean kaufen
 jean taste
@@ -31867,7 +31956,8 @@ jp/my
 jp/shop
 jpbag
 jpbest
-jpcity.co
+jpcity.co/
+jpcity.com/
 jpconverse
 jpdoll
 jpg website
@@ -32098,7 +32188,7 @@ kardes-porn
 kardesporn
 kardilin
 kardirin
-kardo.ru
+kardo.ru/
 karenmillen-au
 karenmillenau
 karet penelaah
@@ -32452,12 +32542,12 @@ kliningovykh-uslug
 klonopin
 klub seperti
 klub-seperti
-klub.in
-klub.pl
-klub.ro
-klub.ru
-klub.su
-klub.za
+klub.in/
+klub.pl/
+klub.ro/
+klub.ru/
+klub.su/
+klub.za/
 klubnaya
 klubnozh
 kluczowa witamin
@@ -32853,7 +32943,7 @@ kwatery-w-centrum
 ky-tot
 kỳ-tốt
 kyros.lat
-kzits.in
+kzits.in/
 kе
 k�
 l.@
@@ -33832,7 +33922,7 @@ list oof
 list site fast
 list-erotic
 list-site-fast
-list.ru
+list.ru/
 lista de fornecedore
 lista fornecedore
 lista-de-fornecedore
@@ -33886,7 +33976,7 @@ livegore
 livehack
 livejasmin
 liveledgerlive
-livelive.ru
+livelive.ru/
 livenaked
 livenowfox
 liveodds
@@ -33920,7 +34010,7 @@ llamanos al telefon
 llámanos al teléfon
 llamar a los telefon
 llamar a los teléfon
-llcnika.ru
+llcnika.ru/
 llet alone
 llet-alone
 llifted
@@ -34511,16 +34601,17 @@ lovelythong
 lovelyto
 lovemaster
 lovemastur
-loveme.co
-loveme.in
-loveme.ro
-loveme.ru
-loveme.su
-loveme.za
+loveme.co/
+loveme.com/
+loveme.in/
+loveme.ro/
+loveme.ru/
+loveme.su/
+loveme.za/
 lovemyhair
 lover tshirt
 lover-tshirt
-lovert.ru
+lovert.ru/
 loveshop-1
 loveshop1
 lovesite
@@ -34706,7 +34797,7 @@ lyrica-2u
 lyrica-4u
 lyrica-for
 lyrica-pric
-lyrica.to
+lyrica.to/
 lyrica2u
 lyrica4u
 lyricafor
@@ -37434,7 +37525,7 @@ mrant sneak
 mrant-sneak
 mrantsneak
 msgnum
-msk.ru
+msk.ru/
 msme loan
 msme-loan
 msmeloan
@@ -37880,12 +37971,13 @@ myowndomain
 mypromo
 myqrop
 myresume
-myreview.co
-myreview.in
-myreview.ro
-myreview.ru
-myreview.su
-myreview.za
+myreview.co/
+myreview.com/
+myreview.in/
+myreview.ro/
+myreview.ru/
+myreview.su/
+myreview.za/
 myriad danger
 myriad-danger
 myriads of enthusiast
@@ -38043,7 +38135,7 @@ narcologiya
 narkologich
 narkologiya
 narkotikamissbruk
-narukova.ru
+narukova.ru/
 naruto hot
 naruto-hot
 narutohot
@@ -38067,7 +38159,7 @@ native forex
 native-forex
 nato apostando
 nato-apostando
-natura.it
+natura.it/
 natural beautiful
 natural cure
 natural estimulant
@@ -38390,7 +38482,7 @@ neww web
 newwebsite
 nexium-2u
 nexium-4u
-nexium.to
+nexium.to/
 nexium2u
 nexium4u
 nexopia
@@ -38675,7 +38767,8 @@ ninfetas
 ninja sword
 ninja-sword
 ninjasword
-niselv.co
+niselv.co/
+niselv.com/
 nissan clothing
 nissan-clothing
 nitraazepam
@@ -38688,7 +38781,7 @@ nizoral
 nj-massage
 njmassage
 nneed-from
-nngid.ru
+nngid.ru/
 nnuauec
 no collateral
 no continu
@@ -38719,7 +38812,8 @@ no-problem-have
 no-remov
 no-reply@
 no-reply1@
-no1.co
+no1.co/
+no1.com/
 nobis yatesy
 nobis-yatesy
 nobisyatesy
@@ -38877,7 +38971,7 @@ nowe-zdj-cie
 nowe-zdjecia
 nowe-zdjęcia
 nowinterstitial
-nozhi.ru
+nozhi.ru/
 nqed
 ñß
 ntc 33
@@ -39865,7 +39959,8 @@ onlinepharm
 onlinepoker
 onlinepris
 onlinereader
-onlines.co
+onlines.co/
+onlines.com/
 onlines.web
 onlinesabong
 onlinesale
@@ -40010,7 +40105,7 @@ options-info
 options-trad
 optionsinfo
 optionstrad
-optom.ru
+optom.ru/
 optymalizacja seo
 optymalizacja-seo
 opyo0
@@ -40044,7 +40139,7 @@ ordergeneric
 orderparafon
 ordersoma
 ordinary amazingness
-orenbash.ru
+orenbash.ru/
 org download
 org-download
 organic hemp
@@ -40098,7 +40193,7 @@ orologiuomo
 os depoimento
 os-depoimento
 osago_
-osago.ru
+osago.ru/
 osmar terra
 osobistosci
 osobistości
@@ -40243,9 +40338,10 @@ outlet-vancouver
 outlet-web
 outlet-woolrich
 outlet.bl
-outlet.cc
+outlet.cc/
 outlet.click
-outlet.co
+outlet.co/
+outlet.com/
 outlet.eu
 outlet.mobi
 outlet.name
@@ -40283,7 +40379,8 @@ outlets coach
 outlets-coach
 outlets-online
 outlets-sale
-outlets.co
+outlets.co/
+outlets.com/
 outlets.net
 outlets.org
 outlets.us
@@ -40904,7 +41001,7 @@ parkovka dlya mash
 parkovka na ychast
 parkovka-dlya-mash
 parkovka-na-ychast
-parkovka.ru
+parkovka.ru/
 parody porn
 parody-porn
 parodyporn
@@ -41093,7 +41190,7 @@ patient special near
 patient-special-near
 patrao-online
 patraoonline
-patriot.ru
+patriot.ru/
 patriots hat
 patriots jers
 patriots-hat
@@ -41123,13 +41220,14 @@ payday-advanc
 payday-cash
 payday-loan
 payday-on
-payday.co
-payday.in
-payday.pl
-payday.ro
-payday.ru
-payday.su
-payday.za
+payday.co/
+payday.com/
+payday.in/
+payday.pl/
+payday.ro/
+payday.ru/
+payday.su/
+payday.za/
 payday|
 paydaycash
 paydayloan
@@ -41272,13 +41370,14 @@ penis-forst
 penis-length
 penis-long
 penis-natur
-penis.co
-penis.in
-penis.pl
-penis.ro
-penis.ru
-penis.su
-penis.za
+penis.co/
+penis.com/
+penis.in/
+penis.pl/
+penis.ro/
+penis.ru/
+penis.su/
+penis.za/
 penisa opinie
 penisa-opinie
 penisadv
@@ -41437,7 +41536,8 @@ permission-allow
 permit me recog
 permit me tell
 permita agradecer
-permonth.co
+permonth.co/
+permonth.com/
 persian artific
 persian-artific
 person prov
@@ -41854,7 +41954,8 @@ pills cheap
 pills review
 pills-cheap
 pills-review
-pills.co
+pills.co/
+pills.com/
 pillscheap
 pillsforsale
 pillsonline
@@ -42200,7 +42301,7 @@ podcast-88
 podcast-booking
 podcast88
 podchaser.com/users/
-podvc.ru
+podvc.ru/
 pohudenie
 point ,
 point !
@@ -43187,7 +43288,7 @@ preferred-essay
 preferred-plumber
 pregabalin-2u
 pregabalin-4u
-pregabalin.to
+pregabalin.to/
 pregabalin2u
 pregabalin4u
 pregnancy massage
@@ -43258,7 +43359,7 @@ premium-key
 premium-out
 premium-wiet
 premium-wordpress
-premium.ru
+premium.ru/
 premium303
 premiumaccount
 premiumanti
@@ -43638,7 +43739,8 @@ professional-poker
 professional-romance
 professional-ugg
 professionalpoker
-professionals.co
+professionals.co/
+professionals.com/
 professionalugg
 professionellen rein
 professionellen-rein
@@ -43758,7 +43860,7 @@ prokuror či
 prokuror-chi
 prokuror-či
 prom-dress
-prom.ru
+prom.ru/
 promo art
 promo artist
 promo bag
@@ -43905,7 +44007,7 @@ proscar for sale
 proscar online
 proscar-for-sale
 proscar-online
-proshop.ru
+proshop.ru/
 prospects of decay
 prostaphytol
 prostate stimul
@@ -43930,7 +44032,7 @@ proteinbene
 proteindiet
 proteinpulver
 proteintozu
-protocol.biz
+protocol.biz/
 prova da oab
 prova-da-oab
 provase concur
@@ -44466,7 +44568,7 @@ radex emf
 radex-emf
 radexemf
 radicallly
-radikal.ru
+radikal.ru/
 radiocarpea
 raelnightclub
 raelxclub
@@ -44486,7 +44588,7 @@ rajapola slot
 rajapola-slot
 raloxifene
 ralph-lauren
-rambler.ru
+rambler.ru/
 rambler.ua
 ramblermail
 ramipril
@@ -44659,8 +44761,8 @@ razdvizhnoj-elektro
 razrabotka sait
 razrabotka-sait
 razrabotkasait
-rb-str.ru
-rbstr.ru
+rb-str.ru/
+rbstr.ru/
 rbstrru
 rdiet.ir
 rdr=http
@@ -44784,7 +44886,8 @@ real-video-chat
 real-x-club
 real-xclub
 realcasino
-realestate.co
+realestate.co/
+realestate.com/
 realestate.web
 realestate.wordpress
 reality operate
@@ -45143,7 +45246,8 @@ reinsurance-market
 reinsuranceindus
 reinsurancemarket
 reirect
-rejersey.co
+rejersey.co/
+rejersey.com/
 rejersey.net
 rejuvenated web
 rejuvenated-web
@@ -45844,7 +45948,7 @@ revolutionary solu
 revolutionary-solu
 revolutionjog
 revolutionstroll
-revq.ru
+revq.ru/
 reward exchang
 reward-exchang
 rewiew
@@ -46117,7 +46221,7 @@ rtnreg
 ru-blacklist
 ru-proshop
 ru-wordpress
-ru.ru
+ru.ru/
 ru.top
 ruang karpet
 ruang-karpet
@@ -46216,7 +46320,7 @@ russia is increas
 russia web
 russia-channel
 russia-web
-russia.ru
+russia.ru/
 russiachannel
 russian channel
 russian mis
@@ -46760,7 +46864,7 @@ sale-online
 sale-template
 sale-tokyo
 sale-train
-sale.biz
+sale.biz/
 sale.buy
 sale.co.
 sale.shop
@@ -46822,7 +46926,8 @@ salestrain
 saletemplate
 saletokyo
 saletrain
-saleu.co
+saleu.co/
+saleu.com/
 salomon athletic
 salomon canada
 salomon run
@@ -46904,13 +47009,14 @@ sanders jers
 sanders-jers
 sandersjers
 sandianyixian
-sandianyixian.co
-sandianyixian.in
-sandianyixian.pl
-sandianyixian.ro
-sandianyixian.ru
-sandianyixian.su
-sandianyixian.za
+sandianyixian.co/
+sandianyixian.com/
+sandianyixian.in/
+sandianyixian.pl/
+sandianyixian.ro/
+sandianyixian.ru/
+sandianyixian.su/
+sandianyixian.za/
 sandypasch
 sangocong
 sans ordonnance
@@ -47251,7 +47357,8 @@ secret-beautiful
 secret-generous
 secret-review
 secret-to-excel
-secret.co
+secret.co/
+secret.com/
 secretadvant
 secretadvert
 secretbeautiful
@@ -47409,9 +47516,9 @@ seks-kat
 seks-og
 seks-porn
 seks-site
-seks.ro
-seks.ru
-seks.su
+seks.ro/
+seks.ru/
+seks.su/
 sekschild
 seksite
 seksporn
@@ -47796,6 +47903,7 @@ sertraline
 serum buy
 serum-buy
 serumbuy
+serv.ru/
 servant appear
 servant-appear
 servantappear
@@ -48218,7 +48326,8 @@ sexy-woman
 sexy-women
 sexy.asp
 sexy.cfm
-sexy.co
+sexy.co/
+sexy.com/
 sexy.ctr
 sexy.girl
 sexy.htm
@@ -48249,7 +48358,8 @@ sf market
 sf-market
 sfmarket
 sg-launch
-sgames.co
+sgames.co/
+sgames.com/
 sglaunch
 sgppppp
 shade repair near
@@ -48258,7 +48368,7 @@ shade-repair-near
 shade-theme
 shades repair near
 shades-repair-near
-shag.ru
+shag.ru/
 sham keenness
 sham-keenness
 shame on goog
@@ -48696,8 +48806,8 @@ shopbusiness
 shopcoupon
 shopcustomer
 shopee.tw
-shopent.ru
-shopent.su
+shopent.ru/
+shopent.su/
 shoperotic
 shopg2bag
 shopjap
@@ -48731,8 +48841,10 @@ shopping-ugg
 shopping-web
 shopping+
 shopping24
-shoppingcenter.co
-shoppingcentre.co
+shoppingcenter.co/
+shoppingcenter.com/
+shoppingcentre.co/
+shoppingcentre.com/
 shoppingharmony
 shoppingonline
 shoppingsite
@@ -48833,7 +48945,7 @@ shrwed
 shttp
 shubhashis
 shutterstock.com/g/
-shvejnye.ru
+shvejnye.ru/
 sɦ
 si.lv.e.r.w.are
 si've
@@ -49016,7 +49128,7 @@ sirop mangustin
 sirop-mangustin
 sistem antalya
 sistem-antalya
-sistem1.ru
+sistem1.ru/
 sistemantalya
 sistemas bolsa
 sistemas populare
@@ -49447,7 +49559,7 @@ slots, blackjack
 slotsmachine
 slotsrtp
 slottoto
-slug.ru
+slug.ru/
 slugi elektrek
 slugi otdeloch
 slugi plotnik
@@ -50044,7 +50156,7 @@ sparkcasino
 sparkle ugg
 sparkle-ugg
 sparkleugg
-spb.ru
+spb.ru/
 speaking approx
 speaking learning
 speaking user
@@ -50084,7 +50196,7 @@ speed seo
 speed-loan
 speed-prox
 speed-seo
-speed.ru
+speed.ru/
 speedloan
 speedprox
 speedseo
@@ -50250,7 +50362,7 @@ spotykam blog
 spotykam post
 spotykam-blog
 spotykam-post
-spr67.ru
+spr67.ru/
 spravochnik
 sprawdzian pdf
 sprawdzian-pdf
@@ -50316,8 +50428,10 @@ spysoftware
 spyware
 sql interview
 sql-interview
-squidoo.co
-sqworl.co
+squidoo.co/
+squidoo.com/
+sqworl.co/
+sqworl.com/
 src=http
 srochnaya pechat
 srochnaya-pechat
@@ -50826,7 +50940,7 @@ style-design-for
 style-mbt
 style:-
 style:)
-style.ru
+style.ru/
 styledkitchen
 stylembt
 styleshq
@@ -50984,7 +51098,8 @@ successpage
 successpost
 successsite
 successyou
-sucesso.co
+sucesso.co/
+sucesso.com/
 sucette
 such a good think
 such aas
@@ -51142,7 +51257,7 @@ sunglassesuk
 sunglassok
 sunglassuk
 sunishne
-sunmuseum.ru
+sunmuseum.ru/
 sunrize
 sunsetthe
 sunshine facet
@@ -51638,7 +51753,7 @@ takipi-satn
 takje care
 takje-care
 takke a look
-taksi.ru
+taksi.ru/
 talent manage
 talent recruit
 talent-manage
@@ -51806,7 +51921,8 @@ tasinma-firmasi
 taşınma firması
 taskss
 taste was pleasant
-tastegood.co
+tastegood.co/
+tastegood.com/
 tasty cbd
 tasty-cbd
 tatoo cheap
@@ -52039,7 +52155,7 @@ telecoms
 teleentulho
 telefono de informacion
 teléfono de información
-telegra.ph
+telegra.ph/
 telegram中
 telegratuit
 telepon-
@@ -52066,8 +52182,10 @@ tempest finance
 tempest-finance
 tempestfinance
 tempestgram
-template.co
-templates.co
+template.co/
+template.com/
+templates.co/
+templates.com/
 templerun-
 templerun1
 tempozy file
@@ -53233,7 +53351,8 @@ time saving life
 time video clip
 time-only-promo
 time-porn
-time-synchronisation.co
+time-synchronisation.co/
+time-synchronisation.com/
 timebusinessnews
 timeforchange
 timeline cheat
@@ -53448,8 +53567,10 @@ todsjap
 todsjp
 toes pain
 toes-pain
-toeshoe.co
-toeshoes.co
+toeshoe.co/
+toeshoe.com/
+toeshoes.co/
+toeshoes.com/
 tofranil
 togel hk
 togel hong
@@ -53470,7 +53591,8 @@ toilet rework
 toilet-repair-near
 toilet-rework
 toilevanessa
-tojp.co
+tojp.co/
+tojp.com/
 tokarnyi_
 tokarnyi-stanok
 tokarnyy_
@@ -53725,7 +53847,7 @@ topic-of-that
 topic-of-web
 topic-on-web
 topic.real
-topic.ru
+topic.ru/
 topic.thank
 topics.real
 topics.thank
@@ -53798,12 +53920,12 @@ total tackle
 total-free
 total-solution-provider
 total-tackle
-totaldns.in
-totaldns.pl
-totaldns.ro
-totaldns.ru
-totaldns.su
-totaldns.za
+totaldns.in/
+totaldns.pl/
+totaldns.ro/
+totaldns.ru/
+totaldns.su/
+totaldns.za/
 totalfree
 totalizador
 totally achievable
@@ -54186,7 +54308,7 @@ travel-specialist
 travel-trailer-driving
 travel-trailer-near
 travel-trailer-repair
-travel.pl
+travel.pl/
 traveltrip
 travesti hak
 travesti-hak
@@ -54639,8 +54761,9 @@ ubirkin
 uｃ
 uch:-
 uch:)
-ucoz.co
-ucoz.ru
+ucoz.co/
+ucoz.com/
+ucoz.ru/
 ucretli meta
 ücretli meta
 ucretli verified
@@ -54897,7 +55020,8 @@ uggs-uitverkoop
 uggs-uk
 uggs-usa
 uggs-wom
-uggs.co
+uggs.co/
+uggs.com/
 uggsale
 uggsaustr
 uggsbailey
@@ -55092,13 +55216,14 @@ university parent univer
 university suggest
 university_suggest
 university-suggest
-unknown.co
-unknown.in
-unknown.pl
-unknown.ro
-unknown.ru
-unknown.su
-unknown.za
+unknown.co/
+unknown.com/
+unknown.in/
+unknown.pl/
+unknown.ro/
+unknown.ru/
+unknown.su/
+unknown.za/
 unknown@
 unlim pay
 unlim-pay
@@ -56157,8 +56282,8 @@ video.htm
 video.jsp
 video.php
 video/vid
-video1.ru
-video2.ru
+video1.ru/
+video2.ru/
 videoadvert
 videobokep
 videobookmark
@@ -56342,7 +56467,8 @@ vip-login
 vip-runescape
 vip-vito
 vip-девочк
-vip.co
+vip.co/
+vip.com/
 vipbox
 vipcoin
 vipdubai
@@ -56576,7 +56702,7 @@ vivierital
 vivierpompe
 vivotab
 viww
-vk.cc
+vk.cc/
 vkews
 vkgnfx
 vnme@
@@ -56796,7 +56922,7 @@ wallet-tool
 walletinvest
 walletout
 wallettool
-wallhaven.cc
+wallhaven.cc/
 wallinside
 wallpaper aesthetic
 wallpaper download
@@ -56825,7 +56951,8 @@ walmartmail
 walnut medicin
 walnut-medicin
 wan na be
-wanelo.co
+wanelo.co/
+wanelo.com/
 wang bag
 wang-bag
 wangbag
@@ -57151,7 +57278,7 @@ web-web
 web-wordpress
 web-yourself
 web.best
-web.ru
+web.ru/
 web's article
 web’s article
 web/icon
@@ -57193,7 +57320,7 @@ webcamchat
 webcamsite
 webcamteen
 webcontent
-webdesign.co
+webdesign.co/
 webdl
 webdownload
 webdrugstore
@@ -57224,13 +57351,13 @@ webmasterhome
 webmasterlar
 webminion.blog
 webmmaster
-webnode.cn
-webnode.co
-webnode.cz
-webnode.fr
-webnode.hu
-webnode.it
-webnode.nl
+webnode.cn/
+webnode.co/
+webnode.cz/
+webnode.fr/
+webnode.hu/
+webnode.it/
+webnode.nl/
 webog post
 webog-post
 webonline
@@ -57685,9 +57812,9 @@ wheel-rv-near
 wheel-trailer-near
 wheel.es
 wheeles
-wheels.co
-wheels.net
-wheels.org
+wheels.co/
+wheels.net/
+wheels.org/
 whenshe
 where buy
 where get
@@ -57979,7 +58106,7 @@ window-replacement-near
 windows anytime
 windows-anytime
 windowsanytime
-windowsphone.co
+windowsphone.co/
 windshield repair near
 windshield-repair-near
 winesickle
@@ -58291,7 +58418,7 @@ wood-massage
 wooden massage
 wooden-massage
 wooden-splitting
-woodgundy.us
+woodgundy.us/
 woogame
 woohouse
 woolrich amster
@@ -58519,7 +58646,7 @@ wp-pad
 wp-phone
 wp-robot
 wpadmin
-wpblog.jp
+wpblog.jp/
 wpbot
 wpcontent
 wpimage
@@ -58783,8 +58910,8 @@ wwwsentro
 wwwseo
 wwwsex
 wwwunder
-wx1.ru
-wx2.ru
+wx1.ru/
+wx2.ru/
 wyd meme
 wyd-meme
 wyglada wybitni
@@ -58872,7 +58999,7 @@ xopenex
 xorgy
 xperia ケア
 xperiaケア
-xplus.ru
+xplus.ru/
 xpoop
 xportant
 xruma
@@ -58894,14 +59021,15 @@ xx-cam
 xx-free
 xx-hub
 xx-page
-xx.co
-xx.in
+xx.co/
+xx.com/
+xx.in/
 xx.page
-xx.pl
-xx.ro
-xx.ru
-xx.su
-xx.za
+xx.pl/
+xx.ro/
+xx.ru/
+xx.su/
+xx.za/
 xxamateur
 xxcam
 xxfree
@@ -58920,13 +59048,14 @@ xyz-write
 xyz/user
 xyztest
 xyz專
-xzzy.co
-xzzy.in
-xzzy.pl
-xzzy.ro
-xzzy.ru
-xzzy.su
-xzzy.za
+xzzy.co/
+xzzy.com/
+xzzy.in/
+xzzy.pl/
+xzzy.ro/
+xzzy.ru/
+xzzy.su/
+xzzy.za/
 y culo
 y pezone
 y teta
@@ -59254,7 +59383,7 @@ youíd
 youíll
 youíre
 youll
-youlooks.ru
+youlooks.ru/
 youmovie
 young poker
 young porn
@@ -59763,7 +59892,7 @@ zealous of
 zealous-of
 zed-bull
 zedbull
-zelpgo.ru
+zelpgo.ru/
 zenfluff
 zenmate free
 zenmate hesap
