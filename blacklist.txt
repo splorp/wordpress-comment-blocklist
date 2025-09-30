@@ -6887,6 +6887,9 @@ $sixty
 88.plus
 88bet
 88dev
+88i play
+88i-play
+88iplay
 88kontol
 88poker
 88ru.
@@ -7634,6 +7637,7 @@ acquire me service
 acquire me vip
 acquire my service
 acquire my vip
+acquire online
 acquire some earning
 acquire the service
 acquire the vip
@@ -7641,7 +7645,10 @@ acquire this service
 acquire this vip
 acquire vip
 acquire-digital-currency
+acquire-online
 acquire-vip
+acquired online
+acquired-online
 acros thee
 across a blog
 across of this article
@@ -15468,6 +15475,8 @@ change-your-life
 changecounselling
 changemylife
 changeyourlife
+changing jackpot
+changing-jackpot
 channel for uncut
 channel obtain
 channel-operator
@@ -18239,13 +18248,13 @@ credentialing compan
 credentialing expert
 credentialing in
 credentialing solu
-credentialing special
+credentialing spec
 credentialing-by
 credentialing-compan
 credentialing-expert
 credentialing-in
 credentialing-solu
-credentialing-special
+credentialing-spec
 credit card casino
 credit cards with
 credit direct
@@ -20852,6 +20861,7 @@ downloadingfree
 downloadingonline
 downloadism
 downloadm4a
+downloadming
 downloadmp3
 downloadmp4
 downloads arab
@@ -22377,7 +22387,11 @@ especially appreciate site
 espectaculos de drone
 espectáculos de drone
 espectaculos-de-drone
+esport thrill
+esport-thrill
 esportowa
+esports thrill
+esports-thrill
 essay check
 essay composing
 essay creat
@@ -25727,6 +25741,7 @@ gamescasino
 gamesgame
 gamesreports
 gamewiki
+gaming credent
 gaming daftar
 gaming game
 gaming indo
@@ -25735,6 +25750,7 @@ gaming mäus
 gaming prowess
 gaming torrent
 gaming working
+gaming-credent
 gaming-daftar
 gaming-game
 gaming-indo
@@ -28289,7 +28305,7 @@ healing-post
 healingindu
 health advis
 health coach
-health credentialing
+health credent
 health how
 health meal
 health programatic
@@ -28298,7 +28314,7 @@ health store
 health suppl
 health-advis
 health-coach
-health-credentialing
+health-credent
 health-how
 health-kart
 health-meal
@@ -32852,6 +32868,7 @@ kosze
 koworking
 kpkfprbrq
 kra сайт
+kra-market
 kra33at
 kra33cc
 kra38at.at
@@ -32875,6 +32892,7 @@ krakenshop
 krakow ceny
 kraków ceny
 krakow-ceny
+kramarket
 krampitzd
 krasivaya devushka
 krasivaya-devushka
@@ -36088,7 +36106,7 @@ medicaid-lawyer
 medicaidlawyer
 medical bestseller
 medical cannabis
-medical credentialing
+medical credent
 medical dentist near
 medical dentists near
 medical historic
@@ -36096,7 +36114,7 @@ medical marijuana
 medical online
 medical-bestseller
 medical-cannabis
-medical-credentialing
+medical-credent
 medical-dentist-near
 medical-dentists-near
 medical-historic
@@ -38408,6 +38426,7 @@ nette web
 nette-web
 netviewer
 network buzz
+network of partner
 network scam
 network truth
 network-buzz
@@ -42547,8 +42566,8 @@ pokies-online
 pokies.online
 pokiesonline
 pokornému
-policy credentialing
-policy-credentialing
+policy credent
+policy-credent
 polisi beriman
 polisi santri
 polisi-beriman
@@ -60534,6 +60553,7 @@ zyvox
 кра события
 кра тор
 кракен darknet
+кракен tor
 кракен войти
 кракен вход
 кракен личный
@@ -61009,6 +61029,7 @@ zyvox
 секреты молодости
 секс
 селитра
+сервис удобным
 сети работ
 симпатичная
 симпатичное сообщение
