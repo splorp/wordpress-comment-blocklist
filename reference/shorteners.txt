@@ -55,6 +55,7 @@
 /got.by/
 /gt7.de/
 /gul.ly/
+/heylink.me/
 /hfg.cc/
 /home.s.id/
 /hop.cx/
@@ -153,6 +154,7 @@
 /utka.su/
 /v.gd/
 /v.ht/
+/vc.ru/
 /vk.co/
 /vk.io/
 /webhop.se/
