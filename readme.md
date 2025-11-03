@@ -47,6 +47,10 @@ Note that the `disallowed_keys` option was previous named `blacklist_keys` in Wo
 
 ## Known Issues, Limitations & Other Gotchas
 
+**WordPress.com Free Plan**
+
+If you are using the [free hosted version of WordPress](https://wordpress.com/free/), the Disallowed Comment Keys field is limited to 10,000 entries. Since the current version of the blocklist contains several thousand more entries than that, you will be unable to save changes to the Discussion Setting. A message will be displayed reading: “In order for your blog to work efficiently, you must reduce the number of entries in the Disallowed Comment Keys.”
+
 **URL Shorteners**
 
 As mentioned above, the keywords in the blocklist are based on spam submitted to my own sites. Spammers often utilize the [obscuring capabilities of URL shorteners](http://certmag.com/spammers-storm-url-shortening-services/) to hide their nefarious links. Therefore, I have included a handful of [URL shortener domains](https://raw.githubusercontent.com/splorp/wordpress-comment-blocklist/master/reference/shorteners.txt) in the blocklist. For all practical purposes, there’s no need for a comment to include a shortened URL, as unmodified links can be easily formatted using HTML. If you find that your visitors are using shortened URLs on a regular basis, you may wish to remove some or all of [these domains](https://raw.githubusercontent.com/splorp/wordpress-comment-blocklist/master/reference/shorteners.txt) from the blocklist.
