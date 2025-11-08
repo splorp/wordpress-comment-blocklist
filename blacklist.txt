@@ -712,6 +712,9 @@ _москве
 -dosityna/
 -download.
 -download/
+-downloadd-
+-downloadd.
+-downloadd/
 -dre.
 -dre/
 -drenazh-
@@ -1619,6 +1622,8 @@ _москве
 -zlatehory-
 -zlatehory.
 -zlatehory/
+– خرید
+– قیمت
 ,seo
 ;; http
 ;&#x
@@ -2178,6 +2183,9 @@ _москве
 .dosityna-
 .dosityna.
 .dosityna/
+.downloadd-
+.downloadd.
+.downloadd/
 .dreamblog.
 .dreamblogs.
 .dreamyblog.
@@ -2272,6 +2280,7 @@ _москве
 .gif/
 .glifeblog.
 .glifeblogs.
+.go.id/info/?
 .gucci-
 .gull.gull
 .haberlist-
@@ -3993,6 +4002,9 @@ _москве
 /doudoune-
 /doudoune.
 /download.
+/downloadd-
+/downloadd.
+/downloadd/
 /drenazh-
 /drmarten-
 /drmarten.
@@ -15018,6 +15030,8 @@ casino us
 casino view
 casino vip
 casino vodka
+casino рабо
+casino реги
 casino сайт
 casino_
 casino-1
@@ -15125,7 +15139,9 @@ casual-sex
 casualsex
 casub.co/
 casub.com/
+cat casino
 cat coin
+cat-casino
 cat-coin
 catalog-tabak
 catalog.asp
@@ -32400,6 +32416,7 @@ kan hipnosis
 kan-hipnosis
 kanadakommen
 kanalizacyjne
+kandidat-merangkul
 kanyewestsun
 kapernick
 kaprinad
@@ -35105,6 +35122,8 @@ mac-izleme
 maç-izleme
 mac-izleye
 maç-izleye
+macam macam
+macam-macam
 macau betting
 macau-betting
 macbook-problemer
@@ -44993,6 +45012,8 @@ rapidprofit
 rarely directly
 rarely painted upon
 rarely-directly
+rasa nan khas
+rasa-nan-khas
 rasalinga
 raschistka dach
 raschistka-dach
