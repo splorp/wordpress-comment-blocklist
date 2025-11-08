@@ -21,6 +21,7 @@
 /bitly.ws/
 /biturl.top/
 /bom.so/
+/c.gle/
 /cek.li/
 /chilp.it/
 /clck.ru/

@@ -3659,6 +3659,7 @@ _москве
 /bye.php?
 /bye.pl?
 /bye/?
+/c.gle/
 /cache-
 /cache.
 /cache/
