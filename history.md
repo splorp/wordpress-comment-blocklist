@@ -4,6 +4,7 @@ A chronological list of changes, bug fixes, and other milestones
 
 ## History
 
++ 20251106 - 63,000 entries
 + 20250826 - Changed repository name to [wordpress-comment-blocklist](https://github.com/splorp/wordpress-comment-blocklist)
 + 20250824 - 62,000 entries
 + 20250620 - 61,000 entries
