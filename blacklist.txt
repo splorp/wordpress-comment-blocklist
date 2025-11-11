@@ -1679,6 +1679,7 @@ _москве
 ?,i
 ?,y
 ??.
+??¤
 ?. ?
 ?.i
 ?.y
@@ -6926,6 +6927,8 @@ $sixty
 ９０＄
 90折
 90歳
+98-winner
+98winner
 99 domino
 99 essay
 99 free
@@ -10942,6 +10945,8 @@ beauty-hospital
 beauty-luxur
 beauty-report
 beauty-useful
+beautygameplay
+beautygocam
 beautyhospital
 beautyluxur
 beautyreport
@@ -15399,6 +15404,8 @@ cemat:cemat
 cemat/cemat
 ceme online
 ceme-online
+cena uslug
+cena-uslug
 cent whenever
 cent-whenever
 cent|
@@ -23913,6 +23920,7 @@ feed2js/feed2js
 feeds also
 feeel free
 feel fdee
+feel free to visit
 feeling ache
 feeling disappeared here
 feeling to start
@@ -29098,6 +29106,10 @@ hkexnews
 hkshop
 hleepd
 hm it
+hm88 chat
+hm88-chat
+hm88.chat
+hm88chat
 hmm it
 hmmm it
 hndeds
@@ -32481,11 +32493,17 @@ kasyno online
 kasyno-crypto
 kasyno-online
 kaszino 24
+kaszinó 24
 kaszino bonus
 kaszinó bonus
+kaszino jatek
+kaszinó jatek
 kaszino-24
 kaszino-bonus
+kaszino-jatek
 kaszino24
+kaszinobonus
+kaszinojatek
 kat.h.l.e.en
 kat.h.l.ee.n
 kat.h.l.een
@@ -35101,14 +35119,17 @@ m4atomp4
 m4new online
 m4new-online
 m4newonline
+m88 cam
 m88 day
 m88 m88
 m88 su
 m88 ui
+m88-cam
 m88-day
 m88-m88
 m88-su
 m88-ui
+m88cam
 m88day
 m88m88
 m88su
@@ -58581,6 +58602,7 @@ wilson-jers
 wilsonjers
 win at blackjack
 win at casino
+win biz
 win blackjack
 win casino
 win iphone
@@ -58590,11 +58612,13 @@ win ranks from
 win v buck
 win сайт
 win-a-prize
+win-biz
 win-blackjack
 win-casino
 win-iphone
 win-million
 win-online
+winbiz
 winblackjack
 wincasino
 window repair near
