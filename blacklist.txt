@@ -4765,6 +4765,7 @@ _москве
 /lv/
 /lvl.vn/
 /lyrica.
+/lyzo.io/
 /m?
 /m.ashx?
 /m.asp?
