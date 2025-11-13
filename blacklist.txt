@@ -20,6 +20,7 @@ _authentic
 _avtomobil
 _barata
 _barato
+_benelli
 _bitcoin
 _biz
 _blackjack
@@ -2461,6 +2462,7 @@ _москве
 .memy/
 .mihanblog.
 .moncler-
+.monoblog.
 .mpeblog.
 .mpeblogs.
 .mrwhite-
@@ -11139,6 +11141,7 @@ benefits coupon
 benefits of blog
 benefits to blog
 benefits-coupon
+benelli_
 bengals merch
 bengals store
 bengals-merch
@@ -60698,6 +60701,7 @@ zyvox
 ботокс
 браузера
 брелки
+бренд был
 бритва золинген
 бритья золинген
 брусовых домов
@@ -61505,6 +61509,7 @@ zyvox
 самые популярные
 самый превосход
 сварных конструк
+своем сегменте
 свой сайт
 свою мечту
 сѓс
