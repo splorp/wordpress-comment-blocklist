@@ -118,6 +118,7 @@
 /shorturl.at/
 /shorturl.co/
 /shrinke.me/
+/shrinkr.top/
 /shrtfly.co/
 /smarturl.it/
 /smsh.me/
