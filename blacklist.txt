@@ -4412,6 +4412,7 @@ _москве
 /how-to.
 /howto-
 /howto.
+/ht.xyz/
 /html/
 /http
 /huit.re/

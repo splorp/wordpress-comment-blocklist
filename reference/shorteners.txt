@@ -60,6 +60,7 @@
 /hfg.cc/
 /home.s.id/
 /hop.cx/
+/ht.xyz/
 /huit.re/
 /hyperurl.co/
 /hypr.ink/
