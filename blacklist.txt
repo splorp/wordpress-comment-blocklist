@@ -3791,6 +3791,7 @@ _москве
 /cl-
 /cl.
 /cl/
+/clc.li/
 /clck?
 /clck.
 /clck/
