@@ -36677,8 +36677,8 @@ medications.shop
 medicationshop
 medicationsshop
 medicinez
-medicinskaya tehnika
-medicinskaya-tehnika
+medicinskaya tehnik
+medicinskaya-tehnik
 medicinskoe obory
 medicinskoe-obory
 medicinskoeobory
@@ -46194,6 +46194,8 @@ remont-bosch
 remont-dvigate
 remont-vorot
 remontbosch
+remontu tehnik
+remontu-tehnik
 remorseless vapor
 remorseless vapour
 remote viewing train
@@ -61997,6 +61999,7 @@ zyvox
 селитра
 семейных ценностей
 сервис удобным
+сервисный ремонт
 сети работ
 симпатичная
 симпатичное сообщение
