@@ -749,6 +749,10 @@ _москве
 -escort-
 -escort.
 -escort/
+-escorte-
+-escorte/
+-escortes-
+-escortes/
 -escorts-
 -escorts.
 -escorts/
@@ -4059,6 +4063,10 @@ _москве
 /escort-
 /escort.
 /escort/
+/escorte-
+/escorte/
+/escortes-
+/escortes/
 /escorts-
 /escorts.
 /escorts/
@@ -6917,12 +6925,15 @@ $sixty
 70歳
 77 login
 77 offic
+77 wenku
 77-login
 77-offic
+77-wenku
 77.ru/
 77login
 77offic
 77ru.
+77wenku
 79bo1
 ８０％
 ８０＄
@@ -16785,6 +16796,7 @@ cinture-gucci
 cinture-out
 cinturegucci
 cintureout
+cipa-toto
 cipatoto
 cipit 88
 cipit-88
@@ -30316,6 +30328,7 @@ i¦ve
 i2g
 ia€?ll
 iamimport
+ian состав
 iｃ
 ich diese seite
 icracks
@@ -32663,6 +32676,7 @@ jump to our page
 jump to our site
 jump to our web
 jump with gladness
+jumpa-toto
 jumpabatman
 jumpatoto
 jumpedup
@@ -34429,6 +34443,8 @@ lingerie sex
 lingerie-sea
 lingerie-sex
 lingeriesea
+lini-toto
+linitoto
 link alternatif
 link bait
 link bokep
@@ -39317,6 +39333,7 @@ next articles
 next post thank
 next post, i
 next the skill
+next write ups
 next yr
 next-articles
 nextspin skill
@@ -46246,6 +46263,7 @@ registryrepair
 registrytool
 reglabili pret
 reglabili-pret
+rego-toto
 regototo
 regualar
 regulados de forex
@@ -57297,6 +57315,12 @@ very oone
 very own aptitudes
 very packed location
 very smart person!
+very strong article
+very strong blog
+very strong page
+very strong post
+very strong site
+very strong web
 very superb
 very v3ry
 very valid
@@ -59992,6 +60016,7 @@ write the e-book
 write the ebook
 write up provid
 write up very
+write ups thank
 write-a-blog
 write-a-protocol
 write-any-article
@@ -60751,6 +60776,10 @@ your exciting site
 your exciting web
 your expert serv
 your expertise with
+your further article
+your further blog
+your further page
+your further post
 your humoristic
 your information is quite
 your innfo
@@ -63441,6 +63470,8 @@ zyvox
 ワンランク上の
 ン ファンド
 ンファンド
+七七 文库
+七七文库
 万年筆
 上質
 下着
