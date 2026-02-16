@@ -765,6 +765,7 @@ _москве
 -essential-element
 -event.
 -event/
+-exbet/
 -exchange.cc/
 -executive.
 -executive/
@@ -4079,6 +4080,8 @@ _москве
 /even?url
 /event-
 /event.
+/exbet-
+/exbet.
 /executive-
 /exit?
 /exit.ashx?
@@ -9429,8 +9432,8 @@ areaart
 aree good
 aree-good
 aren't got
-aren’t got
 aren't you began
+aren’t got
 aren’t you began
 arenda ekskavator
 arenda mini
@@ -23056,6 +23059,10 @@ example1.co/
 example1.com/
 examples tips
 examples-tips
+exbet app
+exbet-app
+exbet.app
+exbetapp
 exboyfriend
 excedllent
 exceeded my desire
@@ -23152,6 +23159,7 @@ exchanging-hyperlink
 exchanging-link
 exchanginglink
 excitement and enjoy
+excitement of online
 exciting game exper
 exciting gaming exper
 exciting-game-exper
@@ -26207,6 +26215,7 @@ gaming maus
 gaming mäus
 gaming prowess
 gaming torrent
+gaming with exbet
 gaming working
 gaming-credent
 gaming-daftar
@@ -54295,6 +54304,10 @@ thportfol
 three %
 three posts are $
 thrill of success
+thrilling bets
+thrilling betting
+thrilling-bets
+thrilling-betting
 thriloed
 thrity
 throat blow
