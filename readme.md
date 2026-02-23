@@ -35,7 +35,7 @@ I don’t blame you if you’re skeptical about how well this blocklist works co
 
 Consider that fair warning.
 
-However, [Jason Cosper](https://github.com/boogah) reports that he used an earlier version of the blocklist on a client’s WordPress installation containing 800,000 or so comments. The blocklist flagged 40% of those comments as “spammy”. As a sanity check, he then exported those flagged comments to a local WordPress install and subsequently had Akismet do its thing. According to Jason, there were [“zero false positives.”](https://twitter.com/boogah/status/292032803359584256)
+However, [Jason Cosper](https://github.com/boogah) reports that he used an earlier version of the blocklist on a client’s WordPress installation containing 800,000 or so comments. The blocklist flagged 40% of those comments as “spammy”. As a sanity check, he then exported those flagged comments to a local WordPress install and subsequently had Akismet do its thing. According to Jason, there were [“zero false positives.”](https://web.archive.org/web/20190720193356/https://twitter.com/boogah/status/292032803359584256)
 
 Still need convincing? The blocklist was featured over at [WP Daily](https://torquemag.io/2013/07/torque-and-the-wp-daily-archives/) (now [Torque](https://torquemag.io/)) in [John Saddington](https://john.do/)’s enticingly titled post, [Die Spam! Blacklist That Shiz with This Gist!](https://torquemag.io/2013/01/comment-blacklist-gist/)
 
@@ -92,7 +92,7 @@ For example, in an earlier version of the blocklist the keyword `::` had been in
 
 *“So much for using Akismet.”*
 
-Thanks to [Mika Epstein](https://github.com/ipstenu), [Ben Gillbanks](https://github.com/BinaryMoon), [Paul Goodchild](https://twitter.com/PaulGoodchild), [Sergej Müller](https://github.com/sergejmueller), [Andrew Norcross](https://github.com/norcross), [Clifford Paulick](https://github.com/cliffordp), [Fabrizio Salmi](https://github.com/fabriziosalmi), [Volker Schmidt](https://github.com/volkerjschmidt), and [Claudio Schwarz](https://github.com/purzlbaum) for their various contributions, suggestions, and reports from the field.
+Thanks to [Mika Epstein](https://github.com/ipstenu), [Ben Gillbanks](https://github.com/BinaryMoon), [Paul Goodchild](https://paulgoodchild.me/blog/), [Sergej Müller](https://github.com/sergejmueller), [Andrew Norcross](https://github.com/norcross), [Clifford Paulick](https://github.com/cliffordp), [Fabrizio Salmi](https://github.com/fabriziosalmi), [Volker Schmidt](https://github.com/volkerjschmidt), and [Claudio Schwarz](https://github.com/purzlbaum) for their various contributions, suggestions, and reports from the field.
 
 Likewise, [Chris Burton](https://chrisburton.me/) deserves a virtual fist bump for the above quote.
 
@@ -112,4 +112,4 @@ Please refer to the [license](https://github.com/splorp/wordpress-comment-blockl
 
 ## Questions?
 
-Contact me via [email](mailto:grant@splorp.com) or [Twitter](https://twitter.com/splorp).
+Contact me via [email](mailto:grant@splorp.com) or [Mastodon](https://mastodon.social/@splorp).
