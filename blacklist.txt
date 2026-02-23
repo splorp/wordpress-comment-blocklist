@@ -1919,6 +1919,7 @@ _москве
 .assjob.
 .assjob/
 .at/sport
+.au noted
 .auto-cast.
 .azmya.
 .azzablog.
@@ -10143,6 +10144,8 @@ autumn marriage ceremony
 avail-clock
 available bargain
 available best
+available bitcoin
+available btc
 available clock
 available now!
 available plus
@@ -10150,6 +10153,8 @@ available proper
 available varied caliber
 available-bargain
 available-best
+available-bitcoin
+available-btc
 available-clock
 available-plus
 available-proper
@@ -11937,7 +11942,16 @@ bitcoin-talk
 bitcoin-transfer
 bitcoin-under
 bitcoin-wallet
-bitcoin. continue
+bitcoin. ass
+bitcoin. can
+bitcoin. con
+bitcoin. get
+bitcoin. nex
+bitcoin.ass
+bitcoin.can
+bitcoin.con
+bitcoin.get
+bitcoin.nex
 bitcoinacc
 bitcoinadd
 bitcoinage
@@ -13430,13 +13444,16 @@ btc-reward
 btc-transact
 btc-turk
 btc-wallet
-btc. assur
-btc. cancel
+btc. ass
+btc. can
 btc. con
 btc. get
+btc. nex
+btc.ass
+btc.can
 btc.con
 btc.get
-btc.next
+btc.nex
 btc99
 btcassur
 btcbot
@@ -25019,7 +25036,7 @@ for du book
 før du book
 for finest content
 for great info
-for groceries contin
+for groceries cont
 for gucci
 for he smile
 for him smile
@@ -25263,6 +25280,8 @@ fortnitecheat
 fortnitefree
 fortniteglitch
 fortnitehack
+fortress level
+fortress-level
 fortuna bola
 fortuna-bola
 fortunabola
@@ -27272,14 +27291,14 @@ good arguments. exact
 good arguments. great
 good arguments. really
 good article and
-good article continue
+good article cont
 good article cool
 good article exact
 good article great
 good article really
 good article stick
 good article, and
-good article, continue
+good article, cont
 good article, cool
 good article, exact
 good article, great
@@ -27289,7 +27308,7 @@ good article, stick
 good article:
 good article!
 good article. and
-good article. continue
+good article. cont
 good article. cool
 good article. exact
 good article. great
@@ -27822,7 +27841,7 @@ great arguments. great
 great arguments. really
 great article —
 great article and
-great article continue
+great article cont
 great article cool
 great article exact
 great article great
@@ -27830,7 +27849,7 @@ great article like
 great article really
 great article stick
 great article, and
-great article, continue
+great article, cont
 great article, cool
 great article, exact
 great article, great
@@ -27840,7 +27859,7 @@ great article, stick
 great article:
 great article!
 great article. and
-great article. continue
+great article. cont
 great article. cool
 great article. exact
 great article. great
@@ -27850,7 +27869,7 @@ great article. you
 great article…
 great blog and
 great blog by
-great blog continue
+great blog cont
 great blog exact
 great blog great
 great blog like
@@ -27859,7 +27878,7 @@ great blog right
 great blog roll
 great blog you
 great blog, by
-great blog, continue
+great blog, cont
 great blog, exact
 great blog, great
 great blog, keep
@@ -27883,9 +27902,9 @@ great keep
 great online
 great operates
 great page and
-great page continue
+great page cont
 great page you
-great page, continue
+great page, cont
 great page, stick
 great performs
 great post
@@ -27901,11 +27920,11 @@ great short para
 great short post
 great short web
 great site and
-great site continue
+great site cont
 great site keep
 great site stick
 great site you
-great site, continue
+great site, cont
 great site, keep
 great site, stick
 great site, you
@@ -27919,13 +27938,13 @@ great web site
 great weblog
 great webpage
 great website and
-great website continue
+great website cont
 great website exact
 great website great
 great website keep
 great website stick
 great website you
-great website, continue
+great website, cont
 great website, exact
 great website, great
 great website, keep
@@ -39700,7 +39719,6 @@ nngid.ru/
 nnleaks
 nnuauec
 no collateral
-no continu
 no contracts, no
 no copy right
 no credit check
@@ -39717,7 +39735,6 @@ no such nearby
 no way smoke
 no-cache
 no-collateral
-no-continu
 no-copy-right
 no-credit
 no-deposit-car
@@ -39857,6 +39874,7 @@ nova godina v
 nova-colecao
 nova-de-colecao
 nova-godina-v
+novabb.ru/
 novice crypto
 novice-crypto
 novo de negocio
@@ -51360,6 +51378,8 @@ sparkcasino
 sparkle ugg
 sparkle-ugg
 sparkleugg
+sparse capacity
+sparse-capacity
 spb.ru/
 speaking approx
 speaking learning
