@@ -12731,6 +12731,7 @@ bonus powital
 bonus selamat
 bonus setiap
 bonus site
+bonus za rejestra
 bonus zu beginnen
 bonus-alin
 bonus-bet-win
@@ -12745,6 +12746,7 @@ bonus-powital
 bonus-selamat
 bonus-setia
 bonus-site
+bonus-za-rejestra
 bonus-zu-beginnen
 bonus.site
 bonuscasino
@@ -26775,6 +26777,8 @@ giao-dien-don-gian
 giao-nhanh
 gic manag
 gic-manag
+gier hazardowy
+gier-hazardowy
 giet nguoi
 giết người
 giet-nguoi
@@ -40508,8 +40512,14 @@ oilanalytic
 ojectx
 ok helpful
 ok-cheap
+ok-helpful
 ok-sex
+ok, downloading
+ok, helpful
 okanyway
+okay helpful
+okay, downloading
+okay, helpful
 okcanadagoose
 okcheap
 okfreeshipping
@@ -42938,6 +42948,7 @@ phucbonmua
 phuchot
 phuctrend
 phukhoasaigon
+phwinapp
 phync
 physician formula
 physician-formula
@@ -51466,6 +51477,9 @@ spiel-automat
 spiel-casino
 spielautomat
 spielcasino
+spiele bonus
+spiele-bonus
+spielebonus
 spielgeld gibt
 spielgeld-gibt
 spielleiterin be
@@ -58253,6 +58267,10 @@ vuittonusa
 vuittonwallet
 vuittonwhole
 vuittonwomen
+vulkan spiele
+vulkan-spiele
+vulkanspie_
+vulkanspiele
 vv free
 vv-free
 vvfree
@@ -60243,6 +60261,8 @@ wtfpeople
 wto brand
 wto-brand
 wtobrand
+wulkano-typu gry
+wulkano-typu-gry
 wuth a
 wuth th
 wweb blog
