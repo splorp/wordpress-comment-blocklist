@@ -2510,6 +2510,7 @@ _москве
 .online.pl/
 .online.ws/
 .online/news/
+.onzeblog.
 .openlink-
 .openlink.
 .openlink/
@@ -6402,15 +6403,21 @@ $sixty
 1vari
 1vine
 1win app
+1win azer
 1win game
 1win login
+1win raket
 1win_
 1win-app
+1win-azer
 1win-game
 1win-login
+1win-raket
 1winapp
+1winazer
 1wingame
 1winlogin
+1winraket
 1xbet
 1you
 1zoop
@@ -10558,6 +10565,9 @@ bahis-giris
 bahis-site
 bahis-slot
 bahisgiris
+baijan bonus
+baijan-bonus
+baijanbonus
 baikal extreme
 baikal rest
 baikal-extreme
@@ -11351,6 +11361,7 @@ best pant
 best paragraph about
 best patio door
 best payment
+best poker play
 best porn
 best priced
 best promo
@@ -11447,6 +11458,7 @@ best-pant
 best-patio-door
 best-payment
 best-phone
+best-poker-play
 best-porn
 best-priced
 best-probiotic
