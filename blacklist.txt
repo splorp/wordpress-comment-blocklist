@@ -5596,6 +5596,7 @@ _москве
 /timberland.
 /tiny.cc/
 /tiny.dk/
+/tinyl.io/
 /tinylink.in/
 /tinyls.net/
 /tinyurl.co/

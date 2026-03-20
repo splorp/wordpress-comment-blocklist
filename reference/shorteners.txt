@@ -142,6 +142,7 @@
 /tiggi.es/
 /tiny.cc/
 /tiny.dk/
+/tinyl.io/
 /tinylink.in/
 /tinyls.net/
 /tinyurl.co/
