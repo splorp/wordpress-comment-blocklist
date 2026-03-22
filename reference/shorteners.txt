@@ -115,6 +115,7 @@
 /s.id/
 /schott.im/
 /sco.lt/
+/short-url.org/
 /shorte.st/
 /shorten.is/
 /shorturl.at/
