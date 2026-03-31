@@ -2367,7 +2367,6 @@ _москве
 .in/top
 .in/user
 .in/wiki
-.info.
 .info/,
 .insanity-
 .internet-
@@ -28712,6 +28711,7 @@ happiness, productiv
 happy and ready
 happy birthday gift
 happy birthday image
+happy check them
 happy christmas gift
 happy christmas image
 happy fresh year
@@ -29419,6 +29419,7 @@ hi. this page
 hi. this post
 hi. this web
 hi.this
+hi68.info
 hiburan daring
 hiburan digital
 hiburan-daring
@@ -54856,7 +54857,6 @@ tips-that-can
 tips-to-start
 tips-unlimited
 tips-untuk
-tips.info
 tipsblog
 tipsdaily
 tipsof
@@ -55821,6 +55821,7 @@ trial a bit
 trial software install
 trial-software-install
 trickphoto
+tried hi68
 triệu đồng
 trik mendesain
 trik selalu
@@ -55928,6 +55929,7 @@ truthabout
 trx خیلی
 try fitrx
 try here best
+try hi68
 try iit
 try this blog
 try this site
@@ -59234,7 +59236,9 @@ weihun-chunan
 weihunchunan
 weitere seo
 weitere-seo
+welcome bonus
 welcome to inquiry
+welcome-bonus
 welcome-to-inquiry
 welcome-to-my-blog
 welcome-to-my-page
