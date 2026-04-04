@@ -2381,6 +2381,7 @@ _москве
 .it/www
 .izrablog.
 .izrablogs.
+.jai-club.
 .jaiblog.
 .jaiblogs.
 .jclick-
@@ -4528,6 +4529,8 @@ _москве
 /j.mp/
 /jacket-
 /jacket.
+/jai-club.
+/jai-club/
 /jbs-
 /jbs.
 /jclick-
@@ -21515,6 +21518,7 @@ droneshow1
 drop extra pound
 drop extra weight
 drop me a mail
+drop some cash
 drop this here
 drop your premium
 drop-extra-pound
@@ -28413,6 +28417,8 @@ habitof
 habitos infaliveis
 hábitos infalíveis
 habitos-infaliveis
+hacai-55
+hacai55
 hack $
 hack 123
 hack academy
@@ -52259,6 +52265,7 @@ studying a publish
 studying gpcr
 studying-gpcr
 studylook
+stuff , appreciate
 stuff into account
 stuff you post
 stuff-you-post
@@ -53928,6 +53935,7 @@ the fabulous site
 the fabulous web
 the feed back
 the feed-back
+the fitness bet
 the fknest
 the following web
 the go section
@@ -56967,6 +56975,7 @@ useful blog
 useful idiom
 useful page overall
 useful pages overall
+useful stuff ,
 useful-idiom
 usefulness of your content
 usefuyl
