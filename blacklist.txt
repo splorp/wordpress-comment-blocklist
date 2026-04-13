@@ -1617,6 +1617,7 @@ _москве
 -x-
 -x.site
 -xchang
+-xr.online
 -you-win-
 -you-win.
 -you-win/
@@ -4908,6 +4909,7 @@ _москве
 /myspace/
 /n.
 /nblo.gs/
+/nesebar.
 /newbalance-
 /newbalance.
 /newbalance/
@@ -17098,6 +17100,7 @@ cliente contento
 cliente maxima
 cliente-contento
 cliente-maxima
+clientfeedback
 clients content
 clients maximal
 clients-content
@@ -26780,6 +26783,7 @@ getastyle
 getbitcoin
 getcash
 getface
+getfollowerfast
 getgiftcard
 gethermes
 getjoy
@@ -31760,6 +31764,7 @@ invest in bitcoin
 invest in btc
 invest in crypto
 invest in nft
+invest wisely
 invest-binary
 invest-in-bitcoin
 invest-in-btc
@@ -31767,6 +31772,7 @@ invest-in-crypto
 invest-in-nft
 invest-money
 invest-off
+invest-wisely
 invest.pl/
 invest.ro/
 invest.ru/
@@ -32568,6 +32574,7 @@ jimla.r.d
 jimmy-choo
 jimmychoo
 jjajjaj
+jjkkkl
 jjl
 jo irast
 jó írást
@@ -34844,7 +34851,9 @@ little thing else
 little thing is simple
 littlegod
 live article
+live bang
 live betting
+live casino
 live crazy time
 live gore
 live hack
@@ -34856,7 +34865,9 @@ live roulette
 live very impress
 live video chat
 live-article
+live-bang
 live-betting
+live-casino
 live-gore
 live-hack
 live-jasmin
@@ -34869,9 +34880,11 @@ live-sex
 live-video-chat
 live22
 livearticle
+livebang
 livebox live
 livebox-live
 liveboxlive
+livecasino
 livecrazytime
 livefree
 livegore
@@ -36338,6 +36351,7 @@ markergaul
 market crash
 market exchang
 market forerunner
+market invest
 market online
 market samurai
 market scenario
@@ -36347,6 +36361,7 @@ market обзоры
 market-crash
 market-exchang
 market-forerunner
+market-invest
 market-online
 market-samurai
 market-scenario
@@ -36471,7 +36486,9 @@ marketplace-nft
 marketprices
 marketpricing
 marketresearch
+markets invest
 markets research comp
+markets-invest
 markets.financ
 marketsamurai
 markettakeover
@@ -38172,6 +38189,9 @@ monica-santa
 monitoringu
 monnaies revolution
 monohydrate
+monopoly live
+monopoly-live
+monopolylive
 monroussillon
 monsoon-essential
 monster beat
@@ -39926,6 +39946,7 @@ nossos-comprador
 nossos-orgaos
 nostro marijuana
 nostro-marijuana
+not acceptable!
 not fake
 not having accident
 not suure
@@ -40490,11 +40511,13 @@ offered on your web
 offered you with quite
 offering comfort
 offering free
+offering inclusive
 offering that price
 offering this price
 offering various premium
 offering-comfort
 offering-free
+offering-inclusive
 offerout
 offers breathtaking
 offers comfort
@@ -50884,6 +50907,7 @@ slotgame
 slotjackpot
 slotlapak
 slotmachine
+slotmaschinen
 slotonline
 slotpg
 slotplinko
@@ -51247,6 +51271,9 @@ sokratit-rashody
 sokurce
 sol prednisolone
 sol-prednisolone
+solana price
+solana-price
+solanaprice
 solar install near
 solar panel clean
 solar panel gold
@@ -53491,6 +53518,7 @@ tecnicooficial
 teen cam
 teen female
 teen lesb
+teen patti
 teen porn
 teen pussy
 teen sex
@@ -53500,6 +53528,7 @@ teen-cam
 teen-female
 teen-her
 teen-lesb
+teen-patti
 teen-porn
 teen-pussy
 teen-sex
@@ -53516,6 +53545,7 @@ teencam
 teenher
 teeniepant
 teenlesb
+teenpatti
 teenporn
 teenpussy
 teens cam
@@ -59674,6 +59704,7 @@ wilson-jers
 wilsonjers
 win at blackjack
 win at casino
+win big with
 win biz
 win blackjack
 win casino
@@ -59684,6 +59715,7 @@ win ranks from
 win v buck
 win сайт
 win-a-prize
+win-big-with
 win-biz
 win-blackjack
 win-casino
@@ -62562,6 +62594,7 @@ zyvox
 р№
 рµ
 работают сайт
+радует меня
 разберитесь в факт
 разведение борзы
 разведение овча
@@ -62668,6 +62701,7 @@ zyvox
 самый превосход
 сварных конструк
 своем сегменте
+своим игривым
 свой сайт
 свою мечту
 сѓс
@@ -62888,9 +62922,13 @@ zyvox
 шапка
 шёлковый палант
 шёлковый платок
+шє
 шкаф в парк
 шкуры животных
 шлюхи
+щ†
+щ€
+щѓ
 щзп
 эвакуатор
 экономичных до премиа
