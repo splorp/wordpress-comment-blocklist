@@ -8553,6 +8553,8 @@ aktuellpress
 aktuelnachricht
 aktuelnews
 aktuelpress
+aktywuj spin
+aktywuj-spin
 akun goog
 akupunktur
 aladdin online
@@ -10128,6 +10130,8 @@ autobrand
 autoclinics.co.
 autocom
 autoglassnear
+automatach online
+automatach-online
 automated crypto
 automated-crypto
 automatenspiele
@@ -19758,11 +19762,10 @@ darkwebsite
 darmowe ogloszenia
 darmowe ogłoszenia
 darmowe prog
+darmowe spin
 darmowe-ogloszenia
-darmowe-ogłoszenia
 darmowe-prog
-darmoweogloszenia
-darmoweogłoszenia
+darmowe-spin
 darmoweprog
 darmowy
 darrellbox
@@ -26882,7 +26885,9 @@ giao-nhanh
 gic manag
 gic-manag
 gier hazardowy
+gier na automat
 gier-hazardowy
+gier-na-automat
 giet nguoi
 giết người
 giet-nguoi
@@ -27842,6 +27847,7 @@ grab-people-interest
 grabfree
 grabs viewer
 grabs views
+grać w automat
 graceful appreciation
 gracias por compartir
 graduand
@@ -40952,6 +40958,7 @@ online vietnam
 online weblog
 online webpage
 online website
+online z licenc
 online παραφαρμακειο
 online_flower
 online-24
@@ -43540,6 +43547,8 @@ pmupoker
 pnc speed
 pnc-speed
 pncspeed
+pobierz teraz
+pobierz-teraz
 pochemuchka
 poco prezzo
 poco-prezzo
@@ -56116,6 +56125,8 @@ turisticheskij marshr
 turisticheskij-marshr
 turkiye@example
 turn my essay
+turnieje slot
+turnieje-slot
 turning a revenue
 turnkey blog
 turnkey initiative
@@ -61615,6 +61626,8 @@ zapravka-kartrid
 zarabotk
 zasorov kanal
 zasorov-kanal
+zaufany operator
+zaufany-operator
 zawiera witamin
 zawiera-witamin
 zawieszki
