@@ -5202,6 +5202,7 @@ _москве
 /proxy.pl?
 /proxy/?
 /prozac
+/psee.io/
 /public/
 /pufy
 /pumps-
