@@ -181,6 +181,7 @@
 /ylink.pro/
 /yourls.org/
 /yourls.site/
+/yt.vu/
 /zo.ee/
 /zpr.io/
 /zzb.bz/

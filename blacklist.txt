@@ -5895,6 +5895,7 @@ _москве
 /you-win/
 /yourls.org/
 /yourls.site/
+/yt.vu/
 /yukon-claim.
 /yukon-gold.
 /yuwanshe-
