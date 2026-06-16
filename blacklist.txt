@@ -4000,6 +4000,7 @@ _москве
 /director.pl?
 /director/?
 /dirigente/
+/diskuse/
 /div/
 /dlia/
 /dlvr.it/
@@ -8966,6 +8967,8 @@ analhook
 analisis de uso
 análisis de uso
 analisis-de-uso
+analizando las nueva
+analizando-las-nueva
 analplug
 analporn
 analsex
@@ -12890,6 +12893,7 @@ bookmakers, book
 bookmared
 bookmark add
 bookmark boom
+bookmark dulu
 bookmark it
 bookmark me
 bookmark site list
@@ -12899,6 +12903,7 @@ bookmark web
 bookmark you
 bookmark-add
 bookmark-boom
+bookmark-dulu
 bookmark-it
 bookmark-me
 bookmark-thank
@@ -15252,6 +15257,7 @@ casino account
 casino affida
 casino agree
 casino agréé
+casino anmeld
 casino app
 casino bet
 casino bonus
@@ -15316,6 +15322,7 @@ casino-24
 casino-account
 casino-affida
 casino-agree
+casino-anmeld
 casino-app
 casino-bet
 casino-bonus
@@ -26219,6 +26226,8 @@ furnituresale
 furosemide
 further former
 further-former
+furthermore remember
+furthermore-remember
 furworld.ru/
 furworld.su/
 futbol barata
@@ -27204,6 +27213,7 @@ giubbottowoolrich
 giuseppezanotti
 give expertise
 give fastidious
+give it a visit
 give me some comment
 give quality base
 give thanks you
@@ -27217,6 +27227,7 @@ give your site
 give your web
 give-expertise
 give-fastidious
+give-it-a-visit
 giveaway win
 giveaway-win
 giveaway! win
@@ -32470,6 +32481,8 @@ jajjaja
 jajjajj
 jak nie placic
 jak nie płacić
+jak si vybrat
+jak-si-vybrat
 jakie witamin
 jakie-witamin
 jam jord
@@ -33001,6 +33014,9 @@ judiciously-chosen
 judionline
 judipoker
 judiroulette
+juego movil
+juego móvil
+juego-movil
 jugadore en poker
 jugadore en poquer
 jugadore poker
@@ -37775,6 +37791,8 @@ mieszkania
 mieszkanie
 miftolo
 might by no
+might find insightful
+might-find-insightful
 migliore replic
 migliore-replic
 migliorereplic
@@ -37909,6 +37927,8 @@ mining-legit
 mining.cash
 miningcash
 minirin
+mino casino
+mino-casino
 minocine sans
 minocine-sans
 minoxidil
@@ -40178,6 +40198,7 @@ notable-holy
 notable-void
 notary stamp generat
 notary-stamp-generat
+notboxletters
 notdienst
 note of your blog
 note of your page
@@ -44393,6 +44414,9 @@ portal-ini-sesuai
 portal-koko
 portalu multi
 portalu-multi
+portefoljen av spill
+porteføljen av spill
+portefoljen-av-spill
 portray & decora
 portray &amp; decora
 portray and decora
@@ -46587,8 +46611,10 @@ recommendations addi
 recommendations-addi
 recommended internet
 recommended this blog
+recommended untuk
 recommended-internet
 recommended-this-blog
+recommended-untuk
 reconocida marca
 reconocida-marca
 reconquista perfeita
@@ -47641,6 +47667,7 @@ robux-generator
 robuxs
 rocasea
 rocklike drive
+rodeoslot
 rofx net
 rofx review
 rofx-net
@@ -49647,6 +49674,8 @@ settlement fund
 settlement-cash
 settlement-fund
 settlementfund
+setuju banget
+setuju-banget
 setup the malware
 seu blog
 seu de rateio
@@ -51224,6 +51253,7 @@ slots machine
 slots online
 slots pagan mas
 slots rtp
+slots virtual
 slots_on_the_internet
 slots-blackjack
 slots-machine
@@ -51232,6 +51262,7 @@ slots-online
 slots-pagan-mas
 slots-platinum
 slots-rtp
+slots-virtual
 slots, blackjack
 slotsmachine
 slotsplatinum
@@ -51941,6 +51972,7 @@ spilivanie derev'yev
 spilivanie derev’yev
 spilivanie derevyev
 spilivanie-derevyev
+spilleside
 spin casino
 spin prize
 spin-casino
@@ -57956,6 +57988,7 @@ verty-owdiw
 vertyowdiw
 very best gain
 very best journ
+very cool platform
 very disconcertingly
 very effortless
 very hypo
@@ -57979,6 +58012,7 @@ very superb
 very v3ry
 very valid
 very-best-gain
+very-cool-platform
 very-disconcertingly
 very-effortless
 very-hypo
