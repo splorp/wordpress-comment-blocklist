@@ -12217,6 +12217,7 @@ blog _
 blog ::
 blog a menudo
 blog about animal
+blog about betting
 blog about yor
 blog admin
 blog already
@@ -12517,6 +12518,7 @@ blogplatform
 blogprodesign
 blogprojet
 blogrtui.ru/
+blogs about betting
 blogs already
 blogs always
 blogs are so sex
@@ -20350,6 +20352,7 @@ depo-slot
 depoimentos reais
 depoimentos-reais
 deposit available!
+deposit bonus
 deposit casino
 deposit pulsa
 deposit withdraw
@@ -29664,6 +29667,7 @@ high need venture
 high payoff
 high pidel
 high professional top
+high volume user
 high winning
 high-blog
 high-end lifestyle
@@ -29682,6 +29686,7 @@ high-need venture
 high-need-business
 high-need-venture
 high-payoff
+high-volume-user
 high-winning
 high.cc/
 highblood
@@ -36044,6 +36049,9 @@ macha-slim
 machaslim
 machine hat row
 machine-hat-row
+macho casino
+macho-casino
+machocasino
 mackage jack
 mackage-jack
 mackagejack
@@ -36887,8 +36895,10 @@ massarticle
 massface
 massive affiliate
 massive orgasm
+massive payout
 massive-affiliate
 massive-orgasm
+massive-payout
 massive-web
 massiveaffiliate
 massleads
@@ -41468,8 +41478,12 @@ optimization-agency
 optimization-enhance
 optimize enhance
 optimize my online
+optimize office work
 optimize your online
 optimize-enhance
+optimize-office-work
+optimizing office work
+optimizing-office-work
 option binaire
 option binary
 option bot
@@ -41632,6 +41646,7 @@ our editors page
 our editors post
 our latest content
 our link
+our modern move
 our shapewear
 our time within you
 our top choice
@@ -43655,6 +43670,10 @@ playing-film-trailer
 playing-films-trailer
 playing-video-review
 playing-videos-review
+playjonny casino
+playjonny online
+playjonny-casino
+playjonny-online
 playking 88
 playking-88
 playking88
@@ -44484,6 +44503,7 @@ possui-zero
 post __
 post ::
 post aat
+post about betting
 post as well as
 post at this site
 post como este
@@ -44567,6 +44587,7 @@ posting your ad
 posting-comment
 postnatal massage
 postnatal-massage
+posts about betting
 posts are so sex
 posts are too quick
 posts is very
@@ -52010,6 +52031,7 @@ spin-casino
 spin-prize
 spinapp.bar
 spincasino
+spinmacho
 spinprize
 spins.xyz
 spip.asp
@@ -54123,6 +54145,7 @@ test-tumblr
 test-yapili
 test.domain
 test.tumblr
+test@mail
 test1.
 tested resume
 tested-resume
