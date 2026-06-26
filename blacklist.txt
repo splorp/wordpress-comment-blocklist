@@ -12259,6 +12259,7 @@ blog is a cent
 blog is a shining
 blog is actually
 blog is an in
+blog is definite
 blog is extraordinary
 blog is extreme
 blog is fastidious
@@ -12324,6 +12325,7 @@ blog visit
 blog was ..
 blog was …
 blog was how
+blog was peaceful
 blog was relevant
 blog was..
 blog was…
@@ -13273,6 +13275,7 @@ brand jap
 brand jean
 brand jp
 brand mlb
+brand name medic
 brand nba
 brand new ipad
 brand new iphone
@@ -13293,6 +13296,8 @@ brand-jap
 brand-jean
 brand-jp
 brand-mlb
+brand-name medic
+brand-name-medic
 brand-nba
 brand-new-ipad
 brand-new-iphone
@@ -13315,6 +13320,8 @@ brandiwc
 brandjap
 brandjean
 brandjp
+brandname medic
+brandname-medic
 brandpurse
 brands top
 brands-jap
@@ -16894,6 +16901,7 @@ cialis deliver
 cialis generic
 cialis me
 cialis online
+cialis otc
 cialis pric
 cialis_
 cialis-2u
@@ -16904,6 +16912,7 @@ cialis-deliver
 cialis-generic
 cialis-me
 cialis-online
+cialis-otc
 cialis-pric
 cialis2u
 cialis4u
@@ -20379,10 +20388,10 @@ depression and preg
 depression definition
 depression ecg
 depression m kya
-depression medication
+depression medic
 depression symptom
 depression-definition
-depression-medication
+depression-medic
 depression-symptom
 derm exclus
 derm-exclus
@@ -23151,6 +23160,7 @@ essential for women
 essential issue
 essential me time
 essential me-time
+essential pharma
 essential tax tip
 essential weblog
 essential webpage
@@ -23161,6 +23171,7 @@ essential-for-woman
 essential-for-women
 essential-issue
 essential-me-time
+essential-pharma
 essential-tax-tip
 essentials blog
 essentials for girl
@@ -25118,6 +25129,8 @@ flooring replacement near
 flooring-repair-near
 flooring-replace-near
 flooring-replacement-near
+floral website
+floral-website
 floridaflee
 flower bouqet
 flower sending
@@ -31878,6 +31891,7 @@ internet browse
 internet check
 internet church
 internet degree
+internet floral
 internet gambl
 internet leitor
 internet lifestyle
@@ -31906,6 +31920,7 @@ internet-browse
 internet-check
 internet-church
 internet-degree
+internet-floral
 internet-gambl
 internet-leitor
 internet-lifestyle
@@ -37320,7 +37335,9 @@ medical-website
 medicament info
 medicament-info
 medicarefraud
+medication online
 medication shop
+medication-online
 medication-shop
 medication.shop
 medications shop
@@ -48785,7 +48802,9 @@ saved as a favorite
 saved as a favourite
 saved to bookmark
 saves big money
+saving is material
 saving life change
+savings are material
 savor a movie
 saw this earlier:
 sawfwaf
@@ -59583,6 +59602,7 @@ website was ;
 website was :
 website was ..
 website was …
+website was peaceful
 website was..
 website was…
 website we
