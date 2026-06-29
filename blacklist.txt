@@ -26426,6 +26426,8 @@ gamblingcasino
 gamblinggame
 gamblinghub
 gamblingonline
+gamblingova
+gamblingová
 gamblingsite
 gamblingtour
 game bong
@@ -43772,8 +43774,10 @@ pliage-shop
 pliagebag
 pliagecuir
 pliageshop
+plinko online
 plinko slot
 plinko_
+plinko-online
 plinko-slot
 plinkoslot
 plombier d'urgence
@@ -62251,6 +62255,7 @@ zyvox
 ϳi
 ϳo
 ϳu
+καζίνο
 νa
 νe
 νi
