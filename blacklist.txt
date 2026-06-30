@@ -12791,7 +12791,9 @@ bonne copie
 bonne-copie
 bonnecopie
 bono casino
+bono sin deposit
 bono-casino
+bono-sin-deposit
 bonocasino
 bons ganhos
 bons resultado
@@ -34887,6 +34889,8 @@ lindo-post
 line poker
 line 予
 line-poker
+líneas de pago
+líneas-de-pago
 linebet bang
 linebet in
 linebet-bang
@@ -51290,6 +51294,7 @@ slot terga
 slot terleng
 slot terpercaya
 slot toto
+slot tradicion
 slot video game
 slot videogame
 slot yang
@@ -51320,6 +51325,7 @@ slot-terga
 slot-terleng
 slot-terpercaya
 slot-toto
+slot-tradicion
 slot-video-game
 slot-videogame
 slot-yang
@@ -51343,6 +51349,7 @@ slots machine
 slots online
 slots pagan mas
 slots rtp
+slots tradicion
 slots virtual
 slots_on_the_internet
 slots-blackjack
@@ -51352,6 +51359,7 @@ slots-online
 slots-pagan-mas
 slots-platinum
 slots-rtp
+slots-tradicion
 slots-virtual
 slots, blackjack
 slotsmachine
@@ -62462,6 +62470,7 @@ zyvox
 вход систему
 вы любите
 выбираем лучши
+выбор бадов
 выбор площадк
 выбрать лучшие
 выигрышного комбо
