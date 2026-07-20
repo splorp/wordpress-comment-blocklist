@@ -98,6 +98,7 @@
 /pastein.ru/
 /pastelink.net/
 /pastenote.net/
+/picsee.io/
 /posts.gle/
 /ppus.tk/
 /prephe.ro/
