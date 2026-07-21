@@ -1603,6 +1603,9 @@ _москве
 -website-
 -wedding-dress
 -wedding-photo
+-wefunder-
+-wefunder.
+-wefunder/
 -weight-loss
 -wheels-
 -whipme-
@@ -2986,6 +2989,8 @@ _москве
 .webs.co/
 .webs.com/
 .website/?
+.wefunder-
+.wefunder.
 .wego.shop
 .wgz.cz/
 .whipme-
@@ -5849,6 +5854,9 @@ _москве
 /wedding.
 /weddingreception-
 /weddingreception.
+/wefunder-
+/wefunder.
+/wefunder/
 /whipme-
 /whipme.
 /whipme/
@@ -9238,6 +9246,7 @@ any web site
 any weblog
 any webpage
 any website
+anyaigc
 anygone
 anynihtg
 anyokne
@@ -9265,6 +9274,7 @@ apg apartment
 apg no fee
 apg-apartment
 apg-no-fee
+api中
 apk deponuz
 apk deposu
 apk ucretsiz
@@ -40893,9 +40903,11 @@ offerout
 offers breathtaking
 offers comfort
 offers promo
+offers-bets
 offers-breathtaking
 offers-comfort
 offers-promo
+offersbets
 offerta occhia
 offerta ray
 offerta-occhia
