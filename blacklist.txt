@@ -402,6 +402,7 @@ _москве
 -anal-
 -anal.
 -anal/
+-andamp-
 -android-market-
 -android-market.
 -android-market/
@@ -1203,6 +1204,8 @@ _москве
 -party-boat-
 -party-boat/
 -payday-
+-paylines-
+-paylines/
 -phan-biet-
 -phan-biet.
 -phan-biet/
@@ -1338,6 +1341,7 @@ _москве
 -rdnk-
 -real-estate-
 -realestate-
+-realty.ru/
 -redir-
 -redir.
 -redir/
@@ -1457,6 +1461,8 @@ _москве
 -skque-
 -skque.
 -skque/
+-slot-mechanics-
+-slot-mechanics/
 -sluts-
 -sluts.
 -sluts/
@@ -5095,6 +5101,8 @@ _москве
 /pastein.ru/
 /pastelink.net/
 /pastenote.net/
+/paylines-
+/paylines/
 /phan-biet-
 /phan-biet.
 /phan-biet/
@@ -5490,6 +5498,8 @@ _москве
 /skque-
 /skque.
 /skque/
+/slot-mechanics-
+/slot-mechanics/
 /slovomed.ru/
 /sluts-
 /sluts.
@@ -26467,6 +26477,8 @@ gamble-tour
 gambleonline
 gambletour
 gambling account
+gambling behavior
+gambling behaviour
 gambling boat
 gambling casino
 gambling enthus
@@ -26483,6 +26495,8 @@ gambling-2u
 gambling-4-u
 gambling-4u
 gambling-account
+gambling-behavior
+gambling-behaviour
 gambling-boat
 gambling-casino
 gambling-enthus
@@ -26602,6 +26616,7 @@ gaming credent
 gaming daftar
 gaming game
 gaming indo
+gaming is a framework
 gaming maus
 gaming mäus
 gaming offer
@@ -38061,6 +38076,8 @@ millones dolar
 millones-dolar
 mind damage
 mind-damage
+mindful gaming
+mindful-gaming
 mindfulness you
 mindset activ
 mindset-activ
