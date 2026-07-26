@@ -1286,6 +1286,8 @@ _москве
 -promocional-
 -promocional.
 -promocional/
+-promociones-
+-promociones/
 -promotion-
 -promotion.
 -promotion/
@@ -5190,6 +5192,8 @@ _москве
 /promocional-
 /promocional.
 /promocional/
+/promociones-
+/promociones/
 /promotion-
 /promotion.
 /promotion/
@@ -17996,10 +18000,12 @@ companies.compan
 companies/compan
 companies/moving-compan
 company coach
+company for crypto
 company formation
 company ppc
 company providing adv
 company-coach
+company-for-crypto
 company-formation
 company-ppc
 company.cloud
@@ -18968,6 +18974,7 @@ crypto coin
 crypto curren
 crypto deal
 crypto enth
+crypto exchange
 crypto get
 crypto hack
 crypto hub
@@ -19005,6 +19012,7 @@ crypto-coin
 crypto-curren
 crypto-deal
 crypto-enth
+crypto-exchange
 crypto-get
 crypto-hack
 crypto-hub
@@ -19066,6 +19074,7 @@ cryptocurrency-resonat
 cryptocurrency-strat
 cryptodeal
 cryptoenth
+cryptoexchange
 cryptohack
 cryptohub
 cryptolake
@@ -27272,6 +27281,8 @@ girlsfun
 girlsindubai
 girlsporn
 girlspouse
+giros gratis
+giros-gratis
 git escort
 git eskort
 git-escort
@@ -54618,6 +54629,7 @@ the amazingness
 the amount info
 the article appear
 the article are
+the article feel
 the article is interest
 the article present
 the articles is
@@ -54625,6 +54637,7 @@ the associated fee
 the bast to
 the beneficial to
 the best blog
+the blog feel
 the blog link
 the blog page
 the blog present
@@ -54685,6 +54698,7 @@ the page present
 the particular younger
 the pokie
 the pople
+the post feel
 the post link
 the post present
 the posts is
@@ -54708,6 +54722,7 @@ the simple post
 the simple site
 the simple web
 the site appear
+the site feel
 the site is useful
 the situate
 the supply serv
@@ -54718,6 +54733,8 @@ the top site
 the travel suitcase
 the web link
 the web users
+the weblog feel
+the website feel
 the website offer
 the whole forged
 the wide selection
@@ -55557,6 +55574,7 @@ tinytowtim
 tion?i
 tip desain
 tip mendesain
+tip pro spravne
 tip-desain
 tip-mendesain
 tip:the
@@ -57836,6 +57854,7 @@ uvelichit-podpisc
 uy/image
 uygun fiyatl
 uygun-fiyatl
+uzitecny tip pro
 uzyskac bonus
 uzyskac-bonus
 uƅ
@@ -61437,6 +61456,7 @@ xxx-kernel
 xxx-lulu
 xxxkernel
 xxxlulu
+xxx色
 xyngular
 xyz write
 xyz-write
@@ -64307,8 +64327,6 @@ zyvox
 アウトレット
 アディゼロ
 アディダス
-アナル 肛交
-アナル肛交
 アバクロ
 アパレル英
 アメリカン エキスプレス
@@ -64635,6 +64653,7 @@ zyvox
 予想達人
 予測変換
 予算案
+交xxx
 人 職場
 人形 エロ
 人形エロ
@@ -64998,6 +65017,7 @@ zyvox
 考，
 考試時間
 聊球通
+肛交
 胆石
 脳症
 脳皮質味
