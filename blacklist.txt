@@ -9315,6 +9315,7 @@ app hacked
 app login
 app money free
 app money hack
+app to win
 app-cheap
 app-click
 app-growth
@@ -9326,6 +9327,7 @@ app-nana-cydia
 app-nana-hack
 app-nana-mod
 app-nana-sync
+app-to-win
 app.asp
 app.cfm
 app.cheap
@@ -20751,8 +20753,14 @@ didnt
 didrex online
 didrex-online
 die besten nativ
+die karte bitte
 die kuhlbox
 die kühlbox
+die-besten-nativ
+die-karte-bitte
+die-kuhlbox
+diekartebitte
+diekuhlbox
 diesel denim
 diesel hot
 diesel jap
@@ -43930,11 +43938,14 @@ pliage-shop
 pliagebag
 pliagecuir
 pliageshop
+plinko app
 plinko online
 plinko slot
 plinko_
+plinko-app
 plinko-online
 plinko-slot
+plinkoapp
 plinkoslot
 plombier d'urgence
 plombier d’urgence
@@ -46678,6 +46689,7 @@ reading and leave comment
 reading and leaving comment
 reading dmail
 reading poker
+reading such nice
 reading taste
 reading this article
 reading this blog
@@ -53191,6 +53203,7 @@ such a good think
 such aas
 such available
 such because
+such nice content
 such-available
 such-because
 suchavailable
@@ -60467,6 +60480,8 @@ win iphone
 win million
 win online
 win ranks from
+win real cash
+win real money
 win v buck
 win сайт
 win-a-prize
@@ -60477,6 +60492,8 @@ win-casino
 win-iphone
 win-million
 win-online
+win-real-cash
+win-real-money
 winbiz
 winblackjack
 wincasino
@@ -62485,6 +62502,9 @@ zustellung hei?
 zvetsit prsa
 zvetsit-prsa
 zvid
+zvladate sve limit
+zvládáte své limit
+zvladate-sve-limit
 zwrot podatku
 zwrot-podatku
 zx's
