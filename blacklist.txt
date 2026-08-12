@@ -2383,6 +2383,7 @@ _москве
 .in/user
 .in/wiki
 .info/,
+.info/bonus
 .insanity-
 .internet-
 .iphone-s-
@@ -9550,6 +9551,8 @@ aricept
 aripiprex
 arise balls
 arise-balls
+arjel bonus
+arjel-bonus
 arkti.ru/
 arleitcs
 arm the government
@@ -42799,10 +42802,12 @@ parfaitement-a-tout
 paris bors
 paris securis
 paris sécuris
+paris sportif
 paris-bors
 paris-for
 paris-royal
 paris-securis
+paris-sportif
 parisbors
 parka franc
 parka-franc
@@ -51393,6 +51398,7 @@ site congratulat
 site consultant near
 site consultants near
 site de aposta
+site de paris
 site de rateio
 site derateio
 site echt
@@ -51458,6 +51464,7 @@ site-backup
 site-consultant-near
 site-consultants-near
 site-de-aposta
+site-de-paris
 site-de-rateio
 site-derateio
 site-echt
