@@ -3121,6 +3121,7 @@ _москве
 [mov
 [read more
 [url
+{http
 {keyword}
 {url}
 【
@@ -6909,9 +6910,12 @@ $sixty
 22-insurance
 22http
 22ru.
+24 guncel
+24 güncel
 24 online
 24-7-sport
 24-7sport
+24-guncel
 24-home
 24-online
 24.online
@@ -6919,6 +6923,8 @@ $sixty
 24.store
 24.su/
 24.top
+24guncel
+24güncel
 24h.blog
 24h/24
 24home
@@ -7913,6 +7919,8 @@ ad-serving
 ad-wiki
 ada ulasan
 ada-ulasan
+adanahaber
+adananabzi
 adbeat distrib
 adbeat expert
 adbeat trial
@@ -9013,8 +9021,10 @@ analporn
 analsex
 analvibra
 analyse les marches
+analysis hair
 analysis sport
 analysis various
+analysis-hair
 analysis-sport
 analysis-various
 analyst has
@@ -9179,6 +9189,9 @@ ankaratransfer
 ankle bootie
 ankle-bootie
 anklebootie
+anlik 24
+anlik-24
+anlik24
 anna lewandowska wlosy
 anna lewandowska włosy
 anna-lewandowska-wlosy
@@ -18585,6 +18598,7 @@ costly sufficient
 costly-luxur
 costly-sufficient
 costofcial
+costs of buying
 costs solely reach
 costume aged
 costume ermen
@@ -27075,6 +27089,8 @@ genuinely-pleasant-thing
 genuinelyhealth
 genuinelyvery
 genuinepandora
+geometry hair
+geometry-hair
 georgecow
 geplaatst in een
 german jers
@@ -29039,12 +29055,14 @@ hai-thiet
 hair care indon
 hair complexion
 hair elixir
+hair evaluat
 hair loss treatment
 hair removal product
 hair transplant
 hair-again
 hair-care-indon
 hair-elixir
+hair-evaluat
 hair-grow
 hair-loss-treatment
 hair-remov
@@ -29067,6 +29085,7 @@ hairloss-blocker
 hairremov
 hairstraight
 hairstyle pinterest
+hairstyleai.
 hairstyles pinterest
 hairwigs
 hairy cam
@@ -30459,6 +30478,8 @@ hop-dong-kinh
 hop.click
 hopclick
 hore call girl
+horizon is long
+horizon of several
 hormone masculin
 hormone-masculin
 hormonio masculin
@@ -32342,6 +32363,7 @@ investors.su/
 investors.za/
 invoice manker
 invoice-manker
+involves a horizon
 inzest
 inzwischen spinroll
 inzwischen-spinroll
@@ -32621,6 +32643,8 @@ italia scarpe
 italia-scarpe
 italiascarpe
 italki.com/user/
+italy real estate
+italy-real-estate
 italy-shop
 italy-store
 italyshop
@@ -54213,7 +54237,9 @@ tangam-wallet
 tangamwallet
 tanger out
 tanger-out
+tangible hair
 tangible more strategic
+tangible-hair
 tangkas tang
 tangkas-tang
 tangkastang
@@ -60722,6 +60748,8 @@ wifewith
 wifi jammer
 wifi-jammer
 wifijammer
+wig-like simul
+wig-like-simul
 wigs for men
 wigs for women
 wigs human
@@ -62737,8 +62765,12 @@ zenysrun
 ženysrun
 zero calorie
 zero conhecim
+zero sign-up
+zero signup
 zero-calorie
 zero-conhecim
+zero-sign-up
+zero-signup
 zerocalorie
 zeru blog
 zerű blog
