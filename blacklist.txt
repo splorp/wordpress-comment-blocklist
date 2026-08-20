@@ -1542,6 +1542,8 @@ _москве
 -tax-relief
 -tax-settlement
 -teen-in-
+-tentsla-
+-tentsla/
 -test.de/
 -the-best-
 -the-best.
@@ -2933,6 +2935,7 @@ _москве
 .tblogz.
 .telrock.net
 .tension
+.tentsla.
 .thearticle
 .theblogfairy.
 .thegeekblog.
@@ -5611,6 +5614,9 @@ _москве
 /temp3
 /template/
 /templates/
+/tentsla-
+/tentsla.
+/tentsla/
 /test.
 /tgi.link/
 /th-th.
@@ -7306,6 +7312,9 @@ $sixty
 1337 seo
 1337-seo
 1337seo
+2017.online
+2018.online
+2019.online
 2025.click
 2025.shop
 2025.work
@@ -7811,9 +7820,11 @@ acquired online
 acquired-online
 acros thee
 across a blog
+across international market
 across of this article
 across the sector
 across thiss
+across-international-market
 across-thiss
 act as versatile
 act now before
@@ -11470,6 +11481,7 @@ best fanny
 best forex
 best gaming
 best gas boil
+best golf cart
 best hookah
 best identified fund
 best ive discover
@@ -11568,6 +11580,7 @@ best-fanny
 best-forex
 best-gaming
 best-gas-boil
+best-golf-cart
 best-home-cinema
 best-hookah
 best-identified fund
@@ -27779,10 +27792,12 @@ goldtantric
 goldtruth
 goldvip
 golf access
+golf cart product
 golf exper
 golf out
 golf plaza
 golf-access
+golf-cart-product
 golf-exper
 golf-out
 golf-plaza
@@ -64000,6 +64015,7 @@ zyvox
 съемки подкаст
 сылка
 табак танж
+таблица хоккея
 такое таможен
 такси
 татуаж
