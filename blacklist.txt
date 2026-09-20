@@ -471,6 +471,9 @@ _москве
 -avto.
 -avto/
 -b2b
+-backlink-
+-backlink.
+-backlink/
 -backpain-
 -backpain.
 -backpain/
@@ -1304,6 +1307,7 @@ _москве
 -propertysales-
 -propertysales.
 -propertysales/
+-prostitut
 -protection-coverage-
 -protection-policy-
 -purse.
@@ -1942,6 +1946,7 @@ _москве
 .auto-cast.
 .azmya.
 .azzablog.
+.backlink.
 .baidu
 .bbls.pl/
 .bcz.co/
@@ -3542,6 +3547,9 @@ _москве
 /baby.
 /babydoll-
 /babydoll.
+/backlink-
+/backlink.
+/backlink/
 /backto?
 /backto.ashx?
 /backto.asp?
@@ -43586,6 +43594,8 @@ pereplanirovka
 perevodov v buro perevod
 perfect blog
 perfect diet
+perfect for the dad
+perfect for the mom
 perfect interest
 perfect vpn
 perfect way for writing
@@ -50913,6 +50923,7 @@ shag.ru/
 sham keenness
 sham-keenness
 shame on goog
+shame on the search
 shanghai date
 shanghai escort
 shanghai eskort
@@ -50990,6 +51001,9 @@ share-for-social
 share-site
 share-ssite
 share. with thank
+shared across the internet
+shared across the net
+shared across the web
 shared on this blog
 shared on this page
 shared on this site
@@ -52573,6 +52587,10 @@ solicitors near me
 solicitors-near-me
 solicitous afternoon
 solid human cancer
+solid write up
+solid write-up
+solid writeup
+solid-write-up
 solidcord german
 solidcord philip
 solidcord platform
@@ -53648,6 +53666,7 @@ stydiya podkast
 stydiya-podkast
 style design for
 style mbt
+style of it's perfect
 style-design-for
 style-mbt
 style:-
@@ -58233,6 +58252,7 @@ up the good effort
 up till
 up to other viewer
 up tto
+up upper!
 up-camper-near
 up-new-blog
 up-new-site
@@ -60459,6 +60479,7 @@ websikte
 websiote
 websit was
 websit-was
+website .
 website ..
 website …
 website agencies near
@@ -63474,7 +63495,7 @@ zyvox
 готовые заготовки
 готовые решения
 готовый дом
-границы девуш
+границы деву
 грузоперевозки
 гы во гонят
 гօ
@@ -63743,7 +63764,8 @@ zyvox
 кра тор
 кракен
 кракин
-красивая девуш
+красивая деву
+красивые проверен
 красоты тела
 кредит
 криміналь
@@ -64120,6 +64142,7 @@ zyvox
 про евреев
 проведения инвентар
 проведенный диплом
+проверенные деву
 проверим документ
 проверка авто
 проверку уходит
@@ -64158,7 +64181,7 @@ zyvox
 разведение овча
 разведение собак
 раздеватор
-раздевать девуш
+раздевать деву
 разделе casino
 различных отрас
 размер бонус
@@ -64316,7 +64339,7 @@ zyvox
 сократите риск
 сократить расход
 сокращения ссылок
-сопровождение девуш
+сопровождение деву
 софосбувир
 спам
 специалист
@@ -64943,6 +64966,8 @@ zyvox
 สูตรบาคาร่า
 เสื้อผ้าคนอ้วน
 เสื้อผ้าไซส์ใหญ่
+หนังโป
+หนังโป๊
 โหลดแอพ
 ออนไลน์
 ไฮไลท์ฟุตบ
@@ -65540,6 +65565,7 @@ zyvox
 學徒
 安い
 官网
+室內設計
 專業
 專業光碟
 小琪兒娛樂
