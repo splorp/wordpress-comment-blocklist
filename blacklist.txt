@@ -20743,6 +20743,8 @@ depart your blog
 depart your page
 depart your site
 depart your web
+depend du gout
+depend-du-gout
 dependable plumbing serv
 dependable tailor
 dependable-tailor
@@ -20807,7 +20809,9 @@ derun-eskort
 derunescort
 deruneskort
 derypt
+des jeton
 des services web
+des-jeton
 des-services-web
 desain dinding
 desain eksterior
@@ -38832,6 +38836,7 @@ mirapex
 mirror femme
 mirror-femme
 mirrorfemme
+mis en favori
 mishapen
 misplace me person
 misplaced me person
@@ -58985,6 +58990,13 @@ v bucks win
 v minecraft
 v-i-s-a-r-t
 v.@
+v.e.l.d.a
+v.e.l.da
+v.e.ld.a
+v.e.lda
+v.el.d.a
+v.el.da
+v.eld.a
 v3ry best
 ｖa
 va ballgown
@@ -59289,6 +59301,9 @@ vd casino
 vd-casino
 vdcasino
 ｖe
+ve.l.d.a
+ve.l.da
+ve.ld.a
 vecaro lifestyle
 vecaro_
 vecaro-lifestyle
@@ -59324,6 +59339,7 @@ vehicle insurance near
 vehicle-insurance-near
 veja mais
 veja-mais
+vel.d.a
 velocita e compet
 vendida separadamente
 vendida-separadamente
