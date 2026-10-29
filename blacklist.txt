@@ -5944,6 +5944,7 @@ _москве
 /xy2.eu/
 /xzy.cz/
 /yaplink
+/yaw.gg/
 /ylink
 /yoo.rs/
 /yotube
@@ -9863,6 +9864,8 @@ articolo interes
 articolo-interes
 articolos interes
 articolos-interes
+articulated discuss
+articulated-discuss
 articulo como este
 articulo-como-este
 articulos como este
@@ -10490,6 +10493,8 @@ ayamonline
 ayinda piyasaya
 ayinda-piyasaya
 aｚ
+azerbaijan play
+azerbaijan-play
 azria out
 azria-out
 azriaout
@@ -17373,6 +17378,7 @@ clear clear
 clear your mortgage
 clear-clarif
 clear-clear
+clear, fast, and authoritative
 clearance mbt
 clearance michael
 clearance out
@@ -27631,7 +27637,9 @@ getyou.asp
 gezichtsbehand
 gfband
 gg poker
+gg unblocked
 gg-poker
+gg-unblocked
 gget set
 gginza
 ggpoker
@@ -44457,6 +44465,11 @@ pin-up-ozbek
 pin-up-parol
 pin-up-win
 pin, dump
+pinco azerb
+pinco yukle
+pinco yükle
+pinco-azerb
+pinco-yukle
 pine-and-onyx
 ping your self
 pink dining room
@@ -62162,6 +62175,7 @@ work claim web
 work comp case
 work comp claim
 work doer
+work on this topic!
 work service provider
 work you have here
 work you write
