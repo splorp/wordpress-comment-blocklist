@@ -11877,6 +11877,7 @@ bet-winner
 bet88
 bet365
 bet777
+betalingsmet
 betcasino
 betcazino
 betcio giri
@@ -24321,6 +24322,11 @@ f.u.q.o.s.o
 f.u.q.os.o
 f.u.qo.s.o
 f.u.qos.o
+f.u.t.a.q.u
+f.u.t.a.qu
+f.u.t.aq.u
+f.u.ta.q.u
+f.u.taq.u
 f.u.z.i.n
 f.u.z.in
 f.u.zi.n
@@ -24329,6 +24335,11 @@ f.uq.o.s.o
 f.uq.os.o
 f.uqo.s.o
 f.uqos.o
+f.ut.a.q.u
+f.ut.aq.u
+f.uta.q.u
+f.uta.qu
+f.utaq.u
 f.uz.i.n
 f.uz.in
 f.uzi.n
@@ -24792,6 +24803,7 @@ fast-money
 fast-payout
 fast-prox
 fast-quick
+fast, free shipping!
 fast.biz/
 fast|quick
 fastbiz
@@ -26685,6 +26697,9 @@ fu.q.os.o
 fu.q.oso
 fu.qo.s.o
 fu.qos.o
+fu.t.a.q.u
+fu.ta.q.u
+fu.ta.qu
 fu.z.i.n
 fu.z.in
 fu.zi.n
@@ -26864,8 +26879,10 @@ further former
 further-former
 furthermore remember
 furthermore-remember
-furworld.ru/
-furworld.su/
+furworld.
+fut.aq.u
+futa.q.u
+futaq.u
 futbol barata
 fútbol barata
 futbol barcelona
@@ -28900,6 +28917,7 @@ great site, you
 great submit
 great trailer program
 great trailer strat
+great value bag
 great web log
 great web page
 great web post
@@ -28938,6 +28956,8 @@ great-publish
 great-sex-party
 great-site-you
 great-submit
+great-value bag
+great-value-bag
 great-weblog
 great-website-you
 great-written
@@ -41141,6 +41161,8 @@ norgecanad
 norme anti spam
 norme anti-spam
 norme-anti-spam
+norsk casino
+norsk-casino
 north_face
 north+face
 northface pascher
@@ -44797,10 +44819,14 @@ pliagebag
 pliagecuir
 pliageshop
 plinko app
+plinko click
+plinko idle
 plinko online
 plinko slot
 plinko_
 plinko-app
+plinko-click
+plinko-idle
 plinko-online
 plinko-slot
 plinkoapp
@@ -48025,6 +48051,7 @@ registration-strat
 registrator
 registratsiya online
 registratsiya-online
+registrer
 registry-clean
 registry-fix
 registry-repair
@@ -51743,6 +51770,9 @@ shop makeup
 shop near me
 shop near you
 shop now -
+shop now ->
+shop now →
+shop now >
 shop now alive
 shop online
 shop our collection
@@ -61511,6 +61541,7 @@ wholesale north
 wholesale offer
 wholesale oud
 wholesale polo
+wholesale prices!
 wholesale ralph
 wholesale sex
 wholesale soccer
@@ -61542,6 +61573,7 @@ wholesale-north
 wholesale-offer
 wholesale-oud
 wholesale-polo
+wholesale-price
 wholesale-ralph
 wholesale-sex
 wholesale-soccer
