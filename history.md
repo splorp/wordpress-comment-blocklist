@@ -4,6 +4,7 @@ A chronological list of changes, bug fixes, and other milestones
 
 ## History
 
++ 20261122 – Fifteenth anniversary of the blocklist
 + 20260928 - 66,000 entries
 + 20260714 - 65,000 entries
 + 20260218 - 64,000 entries
@@ -32,6 +33,7 @@ A chronological list of changes, bug fixes, and other milestones
 + 20220314 — 46,000 entries
 + 20220217 — Fixed bug that affected valid links containing [site.co or site.in](https://github.com/splorp/wordpress-comment-blocklist/commit/ffabc58e443a7dc1a5a2f798d3b9edf252079083)
 + 20211124 — 45,000 entries
++ 20211122 – Tenth anniversary of the blocklist
 + 20210913 — Fixed bug that affected email addresses from German service provider [t-online](https://github.com/splorp/wordpress-comment-blocklist/commit/22ded9e489799be02276da25da0fa9325a9fb60f)
 + 20210902 — 44,000 entries
 + 20210705 — Removed [several terms containing number signs](https://github.com/splorp/wordpress-comment-blocklist/commit/bcc822b246ae549e4833fd20bd2685adccff6a80) to  better handle valid anchor references
@@ -67,6 +69,7 @@ A chronological list of changes, bug fixes, and other milestones
 + 20171009 — 25,000 entries
 + 20170422 — 24,000 entries
 + 20170111 — Fixed bug that affected comments containing the common term “[port](https://github.com/splorp/wordpress-comment-blocklist/commit/2e4b912784ba9ed83c5c64be754948ce0f427f0c)”
++ 20261122 – Fifth anniversary of the blocklist
 + 20161013 — 23,000 entries
 + 20160518 — 22,000 entries
 + 20160224 — [WordPress Simple Firewall](https://web.archive.org/web/20140528233831/http://wordpress.org/plugins/wp-simple-firewall/) plugin rebranded as [Shield](https://www.icontrolwp.com/blog/shield-wordpress-simple-security-firewall-pro/)
